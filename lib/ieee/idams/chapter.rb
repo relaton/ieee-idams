@@ -1,6 +1,8 @@
 # lib/ieee/idams/chapter.rb
 # frozen_string_literal: true
 
+require_relative "chapter_info"
+
 module Ieee
   module Idams
     # Represents a chapter within an IEEE book

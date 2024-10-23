@@ -1,21 +1,10 @@
 # lib/ieee/idams/author_group.rb
 # frozen_string_literal: true
 
-require_relative "author"
+require_relative "affiliation_group"
 
 module Ieee
   module Idams
-    # Represents a group of authors
-    class AuthorGroup < Lutaml::Model::Serializable
-      # List of authors
-      # @return [Array<Author>] authors of the work
-      attribute :author, Author, collection: true
-
-      xml do
-        root "authorgroup"
-        map_element "author", to: :author
-      end
-    end
 
     # Represents an individual author
     class Author < Lutaml::Model::Serializable
