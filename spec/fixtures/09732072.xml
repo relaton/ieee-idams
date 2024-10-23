@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[IEEE Std 2302-2021]]></title>
+  <normtitle><![CDATA[IEEE Std 2302-2021]]></normtitle>
+  <standardsfamilytitle>IEEE Standard for Intercloud Interoperability and Federation (SIIF)</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b0000648f32eb05</idamsid>
+    <stdnumber>2302-2021</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>7056</standard_id>
+    <standard_status>Active</standard_status>
+    <standardmodifierset>
+      <standard_modifier>Approved</standard_modifier>
+    </standardmodifierset>
+    <packagememberset>
+      <packagemember>IEL</packagemember>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="New-2005" mediatype="Electronic">978-1-5044-8243-1</isbn>
+    <standard_family>2302</standard_family>
+    <standardpackageset>
+      <standard_package>Communications</standard_package>
+    </standardpackageset>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[Cloud Computing Standards Committee of the IEEE Computer Society]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <copyrightgroup>
+      <copyright>
+        <year>2021</year>
+        <holder>IEEE</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STD25137</productnumber>
+    <PubApprovalDate>8 Dec. 2021</PubApprovalDate>
+    <holdstatus>Publish</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>9732070</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>2022</year>
+      <idamsid>0b0000648f32eb06</idamsid>
+      <issue>
+        <amsid>9732071</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[IEEE Standard for Intercloud Interoperability and Federation (SIIF)]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <articledoi>10.1109/IEEESTD.2022.9732072</articledoi>
+        <idamsid>0b0000648f32eb07</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>T</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <abstract abstracttype="Standard"><![CDATA[A functional model for federation based on the NIST Cloud Federation Reference Architecture is defined in this standard. This model allows a range of deployment topologies and governance. As a general federation model, it can be applied to many application domains using different implementation approaches. As such, it includes cloud-to-cloud federation and interoperability.]]></abstract>
+        <articlestdscope><![CDATA[This standard defines topology, functions, and governance for cloud-to-cloud interoperability and federation. Topological elements include clouds, methods for mediating governance between clouds, and data exchange between clouds. Functional elements include name spaces, presence, messaging, resource metadata and trust infrastructure. Governance elements include registration, geo-independence, and trust anchors. The standard does not address intra-cloud (within cloud) operation, as this is cloud implementation-specific, nor does it address proprietary hybrid-cloud implementations. An API for a core set of federation functions is defined. This core set covers identity, authentication, and policy-based authorization for resource discovery and resource access. This standard lays the foundation for cloud-to-cloud federation and interoperability..]]></articlestdscope>
+        <articlestdpurpose><![CDATA[This standard creates an economy among cloud providers that is transparent to users and applications, which provides for a dynamic infrastructure that can support evolving business models.]]></articlestdpurpose>
+        <date datetype="OriginalPub">
+          <year>2022</year>
+          <month>March</month>
+          <day>8</day>
+        </date>
+        <date datetype="ePub">
+          <year>2022</year>
+          <month>3</month>
+          <day>9</day>
+        </date>
+        <article_publication_date>03/08/2022 12:00:00 AM</article_publication_date>
+        <size>1083150</size>
+        <filename docpartition="7" filetype="MainPDF">09732072.pdf</filename>
+        <artpagenums endpage="42" startpage="1">1-42</artpagenums>
+        <amsid>9732072</amsid>
+        <keywordset keywordtype="IEEEFree">
+          <keyword>
+            <keywordterm><![CDATA[cloud]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[cloud architecture]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[cloud security]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[distributed computing]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[federation]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[identity]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[IEEE 2302&#8482;]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[information sharing]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[interoperability]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[network topology]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[peer to peer]]></keywordterm>
+          </keyword>
+        </keywordset>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[IEEE P2934/D1, May 2021]]></title>
+  <normtitle><![CDATA[IEEE P2934/D1, May 2021]]></normtitle>
+  <standardsfamilytitle>IEEE Standard for Logistics Operation Process in a Smart Factory</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b0000648f32eb90</idamsid>
+    <stdnumber>P2934/D1, May 2021</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>10371</standard_id>
+    <standard_status>Active</standard_status>
+    <standardmodifierset>
+      <standard_modifier>Draft</standard_modifier>
+    </standardmodifierset>
+    <packagememberset>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="New-2005" mediatype="Electronic">978-1-5044-8224-0</isbn>
+    <standard_family>2934</standard_family>
+    <standardpackageset>
+      <standard_package>Communications</standard_package>
+    </standardpackageset>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[Smart Manufacturing Standards Committee of the IEEE Computer Society]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <copyrightgroup>
+      <copyright>
+        <year>2021</year>
+        <holder>IEEE</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STDUD25124</productnumber>
+    <PubApprovalDate>2021</PubApprovalDate>
+    <holdstatus>Hold</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>9732299</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>2021</year>
+      <idamsid>0b0000648f32eb91</idamsid>
+      <issue>
+        <amsid>9732300</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[IEEE Draft Standard for Logistics Operation Process in a Smart Factory]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <idamsid>0b0000648f32eb92</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>T</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <articlestdscope><![CDATA[This standard defines logistics operations processes in a smart factory, including the process composition such as warehousing, packaging, shipment or transportation, implementation conditions, process quality evaluation and process improvement. This standard defines methods for management organization, facility layout, equipment requirements, information systems, employee requirements, and emergency management and evaluation in a smart factory.]]></articlestdscope>
+        <articlestdpurpose><![CDATA[Standardized logistics operation processes play an important role for the efficient operation of a smart factory. This standard aims to promote standardized construction and operational efficiency in discrete manufacturing by optimizing the logistics operation process.]]></articlestdpurpose>
+        <date datetype="OriginalPub">
+          <year>2021</year>
+          <month>Dec.</month>
+          <day>6</day>
+        </date>
+        <date datetype="ePub">
+          <year>2022</year>
+          <month>3</month>
+          <day>9</day>
+        </date>
+        <article_publication_date>12/06/2021 12:00:00 AM</article_publication_date>
+        <size>3233251</size>
+        <filename docpartition="7" filetype="MainPDF">09732301.pdf</filename>
+        <artpagenums endpage="65" startpage="1">1-65</artpagenums>
+        <amsid>9732301</amsid>
+        <keywordset keywordtype="IEEEFree">
+          <keyword>
+            <keywordterm><![CDATA[smart logistics]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[smart factory]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[operation process]]></keywordterm>
+          </keyword>
+        </keywordset>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>

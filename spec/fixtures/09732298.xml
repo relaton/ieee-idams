@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[IEEE Std 1857.10-2021]]></title>
+  <normtitle><![CDATA[IEEE Std 1857.10-2021]]></normtitle>
+  <standardsfamilytitle>IEEE Standard for Third-Generation Video Coding</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b0000648f32eb0c</idamsid>
+    <stdnumber>1857.10-2021</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>7722</standard_id>
+    <standard_status>Active</standard_status>
+    <standardmodifierset>
+      <standard_modifier>Approved</standard_modifier>
+    </standardmodifierset>
+    <packagememberset>
+      <packagemember>IEL</packagemember>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="New-2005" mediatype="Electronic">978-1-5044-8140-3</isbn>
+    <standard_family>1857.10</standard_family>
+    <standardpackageset>
+      <standard_package>Communications</standard_package>
+      <standard_package>Standards Review for National Bodies</standard_package>
+    </standardpackageset>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[Data Compression Standards Committee of the IEEE Computer Society]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <copyrightgroup>
+      <copyright>
+        <year>2022</year>
+        <holder>IEEE</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STD25072</productnumber>
+    <PubApprovalDate>9 Nov. 2021</PubApprovalDate>
+    <holdstatus>Publish</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>9732296</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>2022</year>
+      <idamsid>0b0000648f32eb0d</idamsid>
+      <issue>
+        <amsid>9732297</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[IEEE Standard for Third-Generation Video Coding]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <articledoi>10.1109/IEEESTD.2022.9732298</articledoi>
+        <idamsid>0b0000648f32eb0e</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>T</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <abstract abstracttype="Standard"><![CDATA[A set of high-efficiency video coding tools, including intra prediction, inter prediction, transform, entropy coding and loop filter, and corresponding decoding procedure, is defined in this standard. The target applications and services include, but are not limited to, digital television broadcasting, IPTV, video surveillance, video conference, Internet video streaming, and other video/audio-enabled services and applications such as user-generated multimedia content, digital storage media, and communication.]]></abstract>
+        <articlestdscope><![CDATA[This standard defines a set of tools for efficient video coding and the corresponding decoding procedure, including intra prediction, inter prediction, transform, quantization, and entropy coding.]]></articlestdscope>
+        <articlestdpurpose><![CDATA[This standard provides efficient coding tool sets for the compression of the video data with significant coding efficiency improvement over IEEE Std 1857.4-2018. The target applications and services include, but are not limited to, digital television broadcasting, video surveillance, video conference, Internet video streaming, and other video/audio-enabled services and applications such as user-generated video content, digital video storage, and communication.]]></articlestdpurpose>
+        <date datetype="OriginalPub">
+          <year>2022</year>
+          <month>March</month>
+          <day>8</day>
+        </date>
+        <date datetype="ePub">
+          <year>2022</year>
+          <month>3</month>
+          <day>9</day>
+        </date>
+        <article_publication_date>03/08/2022 12:00:00 AM</article_publication_date>
+        <size>3734728</size>
+        <filename docpartition="7" filetype="MainPDF">09732298.pdf</filename>
+        <artpagenums endpage="445" startpage="1">1-445</artpagenums>
+        <amsid>9732298</amsid>
+        <keywordset keywordtype="IEEEFree">
+          <keyword>
+            <keywordterm><![CDATA[coding unit]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[decoding]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[encoding]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[entropy coding]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[IEEE 1857.10&#8482;]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[inter prediction]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[intra prediction]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[loop filter]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[prediction block]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[prediction unit]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[quantization]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[slice]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[transform]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[transform block]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[transform coefficients]]></keywordterm>
+          </keyword>
+        </keywordset>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>

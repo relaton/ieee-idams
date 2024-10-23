@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[IEEE Std C57.164-2021]]></title>
+  <normtitle><![CDATA[IEEE Std C57.164-2021]]></normtitle>
+  <standardsfamilytitle>IEEE Approved Draft Guide for Establishing Short Circuit Withstand Capabilities of Liquid Immersed Power Transformers, Regulators, and Reactors</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b0000648f32eb09</idamsid>
+    <stdnumber>C57.164-2021</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>6804</standard_id>
+    <standard_status>Active</standard_status>
+    <standardmodifierset>
+      <standard_modifier>Approved</standard_modifier>
+    </standardmodifierset>
+    <packagememberset>
+      <packagemember>IEL</packagemember>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="New-2005" mediatype="Electronic">978-1-5044-8309-4</isbn>
+    <standard_family>C57.164</standard_family>
+    <standardpackageset>
+      <standard_package>Power Transformers (Distribution and Regulating)</standard_package>
+    </standardpackageset>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[Transformers of the IEEE Power and Energy Society]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <copyrightgroup>
+      <copyright>
+        <year>2022</year>
+        <holder>IEEE</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STD25177</productnumber>
+    <PubApprovalDate>8 Dec. 2021</PubApprovalDate>
+    <holdstatus>Publish</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>9732073</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>2022</year>
+      <idamsid>0b0000648f32eb0a</idamsid>
+      <issue>
+        <amsid>9732074</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[IEEE Guide for Establishing Short-Circuit Withstand Capabilities of Liquid-Filled Power Transformers, Regulators, and Reactors]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <articledoi>10.1109/IEEESTD.2022.9732075</articledoi>
+        <idamsid>0b0000648f32eb0b</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>T</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <abstract abstracttype="Standard"><![CDATA[Guidance on determining and establishing short-circuit withstand capabilities of power transformers, regulators, and reactors is provided in this standard.]]></abstract>
+        <articlestdscope><![CDATA[This guide describes theoretical and practical ways to evaluate liquid-immersed power transformers, regulators, and reactors capabilities to withstand short-circuit currents resulting from external short-circuit faults. The equipment capabilities will be assessed based on calculations, design characteristics, construction techniques and material properties. The methods described are not mandatory and will not set forth requirements on how the transformer must be designed.]]></articlestdscope>
+        <date datetype="OriginalPub">
+          <year>2022</year>
+          <month>March</month>
+          <day>11</day>
+        </date>
+        <date datetype="ePub">
+          <year>2022</year>
+          <month>3</month>
+          <day>9</day>
+        </date>
+        <article_publication_date>03/11/2022 12:00:00 AM</article_publication_date>
+        <size>1297057</size>
+        <filename docpartition="7" filetype="MainPDF">09732075.pdf</filename>
+        <artpagenums endpage="44" startpage="1">1-44</artpagenums>
+        <amsid>9732075</amsid>
+        <keywordset keywordtype="IEEEFree">
+          <keyword>
+            <keywordterm><![CDATA[autotransformer]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[fault]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[IEEE C57.164]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[reactor]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[short circuit]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[transformer]]></keywordterm>
+          </keyword>
+        </keywordset>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>

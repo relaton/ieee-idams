@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[ISO/IEC/IEEE 12207-2:2020(E)]]></title>
+  <normtitle><![CDATA[ISO/IEC/IEEE 12207-2:2020(E)]]></normtitle>
+  <standardsfamilytitle>ISO/IEC/IEEE International Standard - Systems and software engineering--Software life cycle processes--Part 2: Relation and mapping between ISO/IEC/IEEE 12207:2017 and ISO/IEC 12207:2008</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b0000648d27efef</idamsid>
+    <stdnumber>12207-2-2020</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>10353</standard_id>
+    <standard_status>Active</standard_status>
+    <standardmodifierset>
+      <standard_modifier>Approved</standard_modifier>
+    </standardmodifierset>
+    <packagememberset>
+      <packagemember>IEL</packagemember>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="New-2005" mediatype="Electronic">978-1-5044-7030-8</isbn>
+    <standard_family>12207-2</standard_family>
+    <standardpackageset>
+      <standard_package>Software</standard_package>
+    </standardpackageset>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <pubtopicalbrowseset>
+      <pubtopicalbrowse>Computing and Processing</pubtopicalbrowse>
+      <pubtopicalbrowse>Components, Circuits, Devices and Systems</pubtopicalbrowse>
+    </pubtopicalbrowseset>
+    <copyrightgroup>
+      <copyright>
+        <year>2020</year>
+        <holder>IEEE</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STD24394</productnumber>
+    <PubApprovalDate>24 Sept. 2020</PubApprovalDate>
+    <holdstatus>Publish</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>9238527</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>2020</year>
+      <idamsid>0b0000648d27eff0</idamsid>
+      <issue>
+        <amsid>9238528</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[ISO/IEC/IEEE International Standard - Systems and software engineering--Software life cycle processes--Part 2: Relation and mapping between ISO/IEC/IEEE 12207:2017 and ISO/IEC 12207:2008]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <articledoi>10.1109/IEEESTD.2020.9238529</articledoi>
+        <idamsid>0b0000648d27eff1</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>T</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <abstract abstracttype="Standard"><![CDATA[ISO/IEC/IEEE 12207-2 provides the mapping expressing corresponding relations between software life cycle processes in ISO/IEC/IEEE 12207:2017 and the processes in the previous edition ISO/IEC 12207:2008. These relations are demonstrated by means of mapping tables that show relationships between Process Outcomes, and Activities and Tasks in these both editions of ISO/IEC/IEEE 12207. This mapping assists users of the ISO/IEC 12207:2008 edition to transition to using the ISO/IEC/IEEE 12207:2017 edition. This document will help users understand the differences between the reference processes and requirements of the two editions of ISO/IEC/IEEE 12207, and help the user to understand any potential gaps or process enhancements might be needed in seeking conformance to, and/or use of ISO/IEC/IEEE 12207:2017. Also, this document provides to such users the mapping which helps to identify corresponding and compatible process outcomes, activities and tasks of processes for software systems in the ISO/IEC/IEEE 12207:2017.]]></abstract>
+        <articlestdscope><![CDATA[This document provides the mapping expressing corresponding relations between software life cycle processes in ISO/IEC/IEEE 12207:2017 and the processes in ISO/IEC 12207:2008. These relations are demonstrated by means of mapping tables that show relationships between activities and tasks, and process outcomes. This mapping assists users of ISO/IEC 12207:2008 to transition to using ISO/IEC/IEEE 12207:2017. This document will help users understand the differences between the reference processes and requirements of the two editions of ISO/IEC/IEEE 12207, and any potential gaps or process enhancements that can be needed in seeking conformance to and/or using ISO/IEC/IEEE 12207:2017. Also, this document provides to such users the mapping which helps to identify corresponding process outcomes, activities and tasks of processes for software systems in ISO/IEC/IEEE 12207:2017. The mapping between ISO/IEC/IEEE 12207:2017 and ISO/IEC 12207:2008 in this document can be used as a basis to continuously conduct, improve and extend current process assets including software specific process assets based on ISO/IEC 12207:2008 for effective implementation]]></articlestdscope>
+        <articlestdpurpose><![CDATA[Users should apply this document to map between their current software life cycle processes consistent with ISO/IEC 12207:2008 and the processes, activities, and tasks required by ISO/IEC/IEEE 12207:2017. The user may define and document user implemented processes differently from either ISO/IEC 12207:2008 or ISO/IEC/IEEE 12207:2017. Then, the mapping tables of this document may be modified with additional user process information, when the user’s processes are mapped to the reference processes of ISO/IEC/IEEE 12207:2017 in order to claim conformance with that standard. This document will help users (who are presumably users of ISO/IEC 12207:2008 as well) to understand the similarities and differences between the reference process definitions and requirements contained in ISO/IEC 12207:2008 and ISO/IEC/IEEE 12207:2017 and then to help map their own implemented lifecycle processes to ISO/IEC/IEEE 12207:2017. Where ISO/IEC/IEEE 12207:2017 requirements (at the level of processes, outcomes, activities or tasks) differ from those in ISO/IEC 12207:2008, the user will be able to identify elements (again at the level of processes, activities or tasks) which have gaps or will not meet the requirements for conformance with ISO/IEC/IEEE 12207:2017. Users can identify corresponding process outcomes, activities or tasks from the mapping tables in Clause 6. This document has none of conformance requirements. However, process outcome or activity/task mapping of this document can be used to support conformance to ISO/IEC/IEEE 12207:2017. Such a case is stated in Clause 1. The following are typical use cases when users of this document can apply mappings: --users can understand which processes, outcomes, activities, or tasks of ISO/IEC/IEEE 12207:2017 cover or subsume the outcomes, activities, or tasks of processes (including software specific processes) of ISO/IEC 12207:2008; --users can identify outcomes, activities, or tasks of processes (including software specific processes) of ISO/IEC 12207:2008 that are to be continuously conducted, enhanced, extended or improved to meet the requirements of ISO/IEC/IEEE 12207:2017 and/or to demonstrate achievement of required outcomes, activities and tasks of the software life cycle processes.]]></articlestdpurpose>
+        <date datetype="OriginalPub">
+          <year>2020</year>
+          <month>Oct.</month>
+          <day>23</day>
+        </date>
+        <date datetype="ePub">
+          <year>2020</year>
+          <month>10</month>
+          <day>23</day>
+        </date>
+        <article_publication_date>10/23/2020 12:00:00 AM</article_publication_date>
+        <size>2778842</size>
+        <filename docpartition="7" filetype="MainPDF">09238529.pdf</filename>
+        <artpagenums endpage="278" startpage="1">1-278</artpagenums>
+        <amsid>9238529</amsid>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>

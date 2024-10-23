@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[IEEE Std 316-1971]]></title>
+  <normtitle><![CDATA[IEEE Std 316-1971]]></normtitle>
+  <standardsfamilytitle>IEEE Standard Requirements for Direct Current Instrument Shunts</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b000064801a02b0</idamsid>
+    <stdnumber>316-1971</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>0</standard_id>
+    <standard_status>Inactive</standard_status>
+    <standardmodifierset>
+      <standard_modifier>Withdrawn</standard_modifier>
+    </standardmodifierset>
+    <packagememberset>
+      <packagemember>IEL</packagemember>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="Historical" mediatype="Electronic">0-7381-4364-2</isbn>
+    <standard_family>316</standard_family>
+    <standardpackageset>
+      <standard_package>Testing, Instrumentation and Measurement, and Metric Practice</standard_package>
+    </standardpackageset>
+    <icscodes>
+      <code_term codenum="17.220.20">Measurement of electrical and magnetic quantities</code_term>
+    </icscodes>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[IEEE Standards Committee]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <pubtopicalbrowseset>
+      <pubtopicalbrowse>Components, Circuits, Devices and Systems</pubtopicalbrowse>
+    </pubtopicalbrowseset>
+    <copyrightgroup>
+      <copyright>
+        <year>1971</year>
+        <holder>IEEE</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <address>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STDWD02345</productnumber>
+    <PubApprovalDate>16 April 1968</PubApprovalDate>
+    <holdstatus>Publish</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>2763</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>1971</year>
+      <idamsid>0b000064820d9ac3</idamsid>
+      <issue>
+        <amsid>669</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[IEEE Standard Requirements for Direct Current Instrument Shunts]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <articledoi>10.1109/IEEESTD.1971.118966</articledoi>
+        <idamsid>0b000064801a02b4</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>F</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <abstract abstracttype="Standard"><![CDATA[This standard applies to shunts for use in direct current circuits to extend the range of instruments or other measuring devices. This standard may apply with suitable exceptions to shunts constructed for special requirements; for example, those having unusually high or low current ratings or voltage drops, special or unusual ranges, and nonstandard terminal arrangements for special applications.<<ETX>>]]></abstract>
+        <date datetype="OriginalPub">
+          <year>1971</year>
+        </date>
+        <size>365377</size>
+        <filename docpartition="1" filetype="MainPDF">00018417.pdf</filename>
+        <artpagenums endpage="" startpage="0_1">0_1</artpagenums>
+        <amsid>18417</amsid>
+        <keywordset keywordtype="IEEE">
+          <keyword>
+            <keywordterm><![CDATA[Connectors]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Standards]]></keywordterm>
+          </keyword>
+        </keywordset>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[ANSI Std Y32.9-1972]]></title>
+  <normtitle><![CDATA[ANSI Std Y32.9-1972]]></normtitle>
+  <standardsfamilytitle>American National Standard Graphic Symbols for Electrical Wiring and Layout Diagrams Used in Architecture and Building Construction</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b000064801a02be</idamsid>
+    <stdnumber>Y32.9-1972</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>0</standard_id>
+    <standard_status>Active</standard_status>
+    <standardmodifierset>
+      <standard_modifier>Approved</standard_modifier>
+    </standardmodifierset>
+    <packagememberset>
+      <packagemember>IEL</packagemember>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="Historical" mediatype="Electronic">0-7381-0951-7</isbn>
+    <standard_family>Y32.9</standard_family>
+    <standardpackageset>
+      <standard_package>Testing, Instrumentation and Measurement, and Metric Practice</standard_package>
+      <standard_package>Power Transmission and Distribution</standard_package>
+    </standardpackageset>
+    <icscodes>
+      <code_term codenum="01.080.40">Graphical symbols for use on electrical and electronics engineering technical drawings, diagrams, plans and in relevant technical product documentation</code_term>
+      <code_term codenum="91.140.50">Electricity supply system</code_term>
+    </icscodes>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[American Society of Mechanical Engineers and IEEE]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <pubtopicalbrowseset>
+      <pubtopicalbrowse>General Topics for Engineers</pubtopicalbrowse>
+    </pubtopicalbrowseset>
+    <copyrightgroup>
+      <copyright>
+        <year>1972</year>
+        <holder>IEEE</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <address>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STD78097</productnumber>
+    <PubApprovalDate>21 June 1972</PubApprovalDate>
+    <holdstatus>Publish</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>2759</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>1972</year>
+      <idamsid>0b000064820d9ac6</idamsid>
+      <issue>
+        <amsid>672</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[American National Standard Graphic Symbols for Electrical Wiring and Layout Diagrams Used in Architecture and Building Construction]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <articledoi>10.1109/IEEESTD.1972.118968</articledoi>
+        <idamsid>0b000064801a02c2</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>F</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <abstract abstracttype="Standard"><![CDATA[This standard provides a basis for showing the general physical location and arrangement of the sections of the required wiring system, and identifying the physical requirements for various types of materials needed to provide the electrical installation in buildings. The required installation is shown on the drawing by the use of the various applicable outlet and equipment symbols, together with interconnecting circuit or feeder run lines, supplemented with necessary notations. In general, basic symbols have been included in the symbol schedule. In some instances, the use of numbers or letters of the alphabet drawn, or at the side of, the basic symbol to identify a specific application of the symbol for a particular type of use of outlet may be required. In some instances, the physical or electrical size of the item identified by the symbol is noted to one side of it.<<ETX>>]]></abstract>
+        <date datetype="OriginalPub">
+          <year>1972</year>
+        </date>
+        <size>664586</size>
+        <filename docpartition="1" filetype="MainPDF">00018425.pdf</filename>
+        <artpagenums endpage="" startpage="0_1">0_1</artpagenums>
+        <amsid>18425</amsid>
+        <keywordset keywordtype="IEEE">
+          <keyword>
+            <keywordterm><![CDATA[Standards]]></keywordterm>
+          </keyword>
+        </keywordset>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>

@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[IEEE Std 802.11-2020 (Revision of IEEE Std 802.11-2016)]]></title>
+  <normtitle><![CDATA[IEEE Std 802.11-2020 (Revision of IEEE Std 802.11-2016)]]></normtitle>
+  <standardsfamilytitle>IEEE Standard for Information technology--Telecommunications and information exchange between systems Local and metropolitan area networks--Specific requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b0000648da53487</idamsid>
+    <stdnumber>802.11-2020</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>7028</standard_id>
+    <standard_status>Active</standard_status>
+    <standardmodifierset>
+      <standard_modifier>Approved</standard_modifier>
+    </standardmodifierset>
+    <standard_bundle>
+      <bundle_name>IEEE Standard for Information Technology--Telecommunications and Information Exchange between Systems - Local and Metropolitan Area Networks--Specific Requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications - Redline</bundle_name>
+      <bundle_type>Suggested</bundle_type>
+      <bundle_product_number>STDRL24548</bundle_product_number>
+    </standard_bundle>
+    <standard_relationship prodnum="" relationship_date="12/31/1969 07:00:00 PM" type="V">7786993</standard_relationship>
+    <packagememberset>
+      <packagemember>IEL</packagemember>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="New-2005" mediatype="Electronic">978-1-5044-7283-8</isbn>
+    <standard_family>802.11</standard_family>
+    <standardpackageset>
+      <standard_package>Foundations for Smart Grid</standard_package>
+      <standard_package>Local and Metropolitan Area Networks (LAN/MAN)</standard_package>
+      <standard_package>IEEE 802.11: Wireless LANs</standard_package>
+      <standard_package>Digital Health</standard_package>
+    </standardpackageset>
+    <icscodes>
+      <code_term codenum="35.100.10">Physical layer</code_term>
+      <code_term codenum="35.110">Networking</code_term>
+    </icscodes>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[LAN/MAN Standards Committee of the IEEE Computer Society]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <pubtopicalbrowseset>
+      <pubtopicalbrowse>Communication, Networking and Broadcast Technologies</pubtopicalbrowse>
+      <pubtopicalbrowse>Computing and Processing</pubtopicalbrowse>
+      <pubtopicalbrowse>Components, Circuits, Devices and Systems</pubtopicalbrowse>
+    </pubtopicalbrowseset>
+    <copyrightgroup>
+      <copyright>
+        <year>2021</year>
+        <holder>IEEE</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STDGT24548</productnumber>
+    <PubApprovalDate>3 Dec. 2020</PubApprovalDate>
+    <holdstatus>Publish</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>9363691</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>2021</year>
+      <idamsid>0b0000648da53488</idamsid>
+      <issue>
+        <amsid>9363692</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[IEEE Standard for Information Technology--Telecommunications and Information Exchange between Systems - Local and Metropolitan Area Networks--Specific Requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <articledoi>10.1109/IEEESTD.2021.9363693</articledoi>
+        <idamsid>0b0000648da53489</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>T</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <abstract abstracttype="Standard"><![CDATA[Technical corrections and clarifications to IEEE Std 802.11 for wireless local area networks (WLANs) as well as enhancements to the existing medium access control (MAC) and physical layer (PHY) functions are specified in this revision. Amendments 1 to 5 published in 2016 and 2018 have also been incorporated into this revision. (The PDF of this standard is available at no cost to you compliments of the IEEE GET program https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68)]]></abstract>
+        <articlestdscope><![CDATA[The scope of this standard is to define one medium access control (MAC) and several physical layer (PHY) specifications for wireless connectivity for fixed, portable, and moving stations (STAs) within a local area.]]></articlestdscope>
+        <articlestdpurpose><![CDATA[The purpose of this standard is to provide wireless connectivity for fixed, portable, and moving stations within a local area. This standard also offers regulatory bodies a means of standardizing access to one or more frequency bands for the purpose of local area communication.]]></articlestdpurpose>
+        <date datetype="OriginalPub">
+          <year>2021</year>
+          <month>Feb.</month>
+          <day>26</day>
+        </date>
+        <date datetype="ePub">
+          <year>2021</year>
+          <month>2</month>
+          <day>25</day>
+        </date>
+        <article_publication_date>02/26/2021 12:00:00 AM</article_publication_date>
+        <size>39424623</size>
+        <filename docpartition="7" filetype="MainPDF">09363693.pdf</filename>
+        <artpagenums endpage="4379" startpage="1">1-4379</artpagenums>
+        <amsid>9363693</amsid>
+        <keywordset keywordtype="IEEE">
+          <keyword>
+            <keywordterm><![CDATA[IEEE Standards]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Information technology]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Information exchange]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Media Access Protocol]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Encryption]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Authentication]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Message services]]></keywordterm>
+          </keyword>
+        </keywordset>
+        <keywordset keywordtype="IEEEFree">
+          <keyword>
+            <keywordterm><![CDATA[2.4 GHz]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[256-QAM]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[3650 MHz]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[4.9 GHz]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[5 GHz]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[5.9 GHz]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[60 GHz]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[advanced encryption standard]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[AES]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[audio]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[beamforming]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[carrier sense multiple access/collision avoidance]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[CCMP]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[channel switching]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[clustering]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[contention based access period]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Counter mode with Cipher-block chaining Message authentication code Protocol]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[confidentiality]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[CSMA/CA]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[DFS]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[direct link]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[directional multi-gigabit]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[dynamic allocation of service period]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[dynamic extension of service period]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[dynamic frequency selection]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[dynamic truncation of service period]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[E911]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[EDCA]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[emergency alert system]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[emergency services]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[fast session transfer]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[forwarding]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[GCMP]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[generic advertisement service]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[high throughput]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[IEEE 802.11]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[international roaming]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[interworking]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[interworking with external networks]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[LAN]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[local area network]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[MAC]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[management]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[measurement]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[medium access control]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[media-independent handover]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[medium access controller]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[mesh]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[MIS]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[millimeter-wave]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[MIMO]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[MIMO-OFDM]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[multi-band operation]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[multi-hop]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[multi-user MIMO]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[multiple input multiple output]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[network advertisement]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[network discovery]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[network management]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[network selection]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[noncontiguous frequency segments]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[OCB]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[path-selection]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[personal basic service set]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[PHY]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[physical layer]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[power saving]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[QoS]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[quality of service]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[quality-of-service management frame]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[radio]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[radio frequency]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[RF]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[radio resource]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[radio management]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[relay operation]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[spatial sharing]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[SSPN]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[subscriber service provider]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[television white spaces]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[TPC]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[transmit power control]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[video]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[wireless access in vehicular environments]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[wireless LAN]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[wireless local area network]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[WLAN]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[wireless network management]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[zero-knowledge proof]]></keywordterm>
+          </keyword>
+        </keywordset>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>

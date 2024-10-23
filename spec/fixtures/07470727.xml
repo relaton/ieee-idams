@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[ISO/IEC/IEEE 24748-4 First edition 2016-05-15]]></title>
+  <normtitle><![CDATA[ISO/IEC/IEEE 24748-4 First edition 2016-05-15]]></normtitle>
+  <standardsfamilytitle>ISO/IEC/IEEE International Standard for Systems and Software Engineering -- Life Cycle Management -- Part 4: Systems Engineering Planning</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b00006485170aca</idamsid>
+    <stdnumber>24748-4-2016</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>5288</standard_id>
+    <standard_status>Active</standard_status>
+    <standardmodifierset>
+      <standard_modifier>Approved</standard_modifier>
+    </standardmodifierset>
+    <packagememberset>
+      <packagemember>IEL</packagemember>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="New-2005" mediatype="Electronic">978-1-5044-0817-2</isbn>
+    <standard_family>1220</standard_family>
+    <standardpackageset>
+      <standard_package>Software</standard_package>
+    </standardpackageset>
+    <icscodes>
+      <code_term codenum="35.240.01">Application of information technology in general</code_term>
+    </icscodes>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <pubtopicalbrowseset>
+      <pubtopicalbrowse>Computing and Processing</pubtopicalbrowse>
+    </pubtopicalbrowseset>
+    <copyrightgroup>
+      <copyright>
+        <year>2016</year>
+        <holder>IEEE/ISO/IEC</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <publisherloc>Piscataway, NJ</publisherloc>
+      <address>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STD20875</productnumber>
+    <PubApprovalDate>3 March 2016</PubApprovalDate>
+    <holdstatus>Publish</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>7470725</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>2016</year>
+      <idamsid>0b00006485170acb</idamsid>
+      <issue>
+        <amsid>7470726</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[ISO/IEC/IEEE International Standard for Systems and Software Engineering -- Life Cycle Management -- Part 4: Systems Engineering Planning]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <articledoi>10.1109/IEEESTD.2016.7470727</articledoi>
+        <idamsid>0b00006485170acc</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>T</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <abstract abstracttype="Regular"><![CDATA[The evolution of the harmonized set of ISO/IEC/IEEE 15288-12207 related standards and technical reports that are discussed in this International Standardprovides detailed requirements and guidance on the application of system life cycle processes. This International Standard unifies technical and managementrequirements and guidance from several of these sources to specify the requirements for the content of a SEMP and to provide a common SEMP format. This International Standard also identifies the processes as defined in ISO/IEC/IEEE 15288 to perform the necessary project planning activities to accomplish the project's technical effort and to develop the project's SEMP. Due to close alignment with the content of ISO/IEC 24748, ISO/IEC 26702 is now Part 4 of the multi-part International Standard, ISO/IEC 24748 (Systems and software engineering -- Life cycle management).]]></abstract>
+        <abstract abstracttype="Standard"><![CDATA[The evolution of the harmonized set of ISO/IEC/IEEE 15288-12207 related standards and technical reports that are discussed in this International Standard provides detailed requirements and guidance on the application of system life cycle processes. This International Standard unifies technical and management requirements and guidance from several of these sources to specify the requirements for the content of a SEMP and to provide a common SEMP format. This International Standard also identifies the processes as defined in ISO/IEC/IEEE 15288 to perform the necessary project planning activities to accomplish the project's technical effort and to develop the project's SEMP. Due to close alignment with the content of ISO/IEC 24748, ISO/IEC 26702 is now Part 4 of the multi-part International Standard, ISO/IEC 24748 (Systems and software engineering -- Life cycle management).]]></abstract>
+        <articlestdscope><![CDATA[This part of ISO/IEC/IEEE 24748 -- specifies the Technical Management processes from ISO/IEC/IEEE 15288 that are required to be implemented for planning a systems engineering project; gives guidelines for applying the required processes; specifies a required information item, a plan for the technical management and execution of the project that is to be produced through the implementation of the Project Planning process; gives guidelines for the format and content of the required information item, and; provides normative definition of the content of the information item that results from the application of these processes to that end. In this part of ISO/IEC/IEEE 24748 that plan for technical project management is termed the Systems Engineering Management Plan (SEMP). This part of ISO/IEC/IEEE 24748 is applicable to those who use or plan to use ISO/IEC/IEEE 15288 on projects dealing with man-made systems including software-intensive systems, software products, and services related to those systems and products; those who are responsible for the technical management of projects concerned with the engineering of systems; those responsible for executing ISO/IEC/IEEE 15288 system life cycle processes at a project level; organizations and individuals who are subcontracting a project management effort; anyone developing engineering management documentation to complete technical planning aspects of their project’s processes. In many organizations, the various responsibilities of technical management are assigned to more than one person. Where the term "technical manager" or "systems engineering manager" is used in this part of ISO/IEC/IEEE 24748, the guidance, advice or normative requirement applies to the applicable role within the project or organization. This part of ISO/IEC/IEEE 24748 is intended to provide guidance for two-party situations and may be equally applied where the two parties are from the same organization. This part of ISO/IEC/IEEE 24748 can also be used by a single party as self-imposed tasks. This part of ISO/IEC/IEEE 24748 can also serve as guidance in multi-party situations, where high risks are inherent in the supply and integration of complex systems, and procurement can involve several suppliers, organizations or parties.]]></articlestdscope>
+        <articlestdpurpose><![CDATA[[ISO/IEC standards generally do not include a distinct statement of purpose.]]]></articlestdpurpose>
+        <date datetype="LastInspecUpd">
+          <year>2016</year>
+          <month>6</month>
+          <day>6</day>
+        </date>
+        <date datetype="OriginalPub">
+          <year>2016</year>
+          <month>May</month>
+          <day>15</day>
+        </date>
+        <date datetype="ePub">
+          <year>2016</year>
+          <month>5</month>
+          <day>17</day>
+        </date>
+        <size>849049</size>
+        <filename docpartition="7" filetype="MainPDF">07470727.pdf</filename>
+        <artpagenums endpage="73" startpage="1">1-73</artpagenums>
+        <amsid>7470727</amsid>
+        <keywordset keywordtype="IEEE">
+          <keyword>
+            <keywordterm><![CDATA[IEEE Standards]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[ISO Standards]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[IEC Standards]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Maintenance engineering]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Software engineering]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Product life cycle management]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Configuration management]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Software acquisition]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Analytical models]]></keywordterm>
+          </keyword>
+        </keywordset>
+        <keywordset keywordtype="IEEEFree">
+          <keyword>
+            <keywordterm><![CDATA[acquisition]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[adaptation]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[agreement]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[analysis]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[assessment]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[audit]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[concept]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[configuration management]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[data management]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[decision management]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[design]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[development]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[documentation management]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[engineering planning]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[enabling system]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[implementation]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[information management]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[infrastructure]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[integration]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[interface]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[life cycle]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[life cycle model]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[life cycle stages]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[maintenance]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[measurement]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[operation]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[performance assessment and control]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[planning]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[process]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[process improvement]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[process tailoring]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[process view]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[product]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[production]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[project assessment and control]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[project planning]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[portfolio management]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[quality management]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[repository]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[requirements]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[retirement]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[review]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[risk management]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[service]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[stage]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[stakeholder requirements]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[specification]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[supply]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[support]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[system]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[system-of-interest]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[systems engineering management plan]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[SEMP]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[SEP]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[systems analyses]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[specialty engineering]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[tailoring]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[technical baseline]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[technical management]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[technical planning]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[technical project management planning]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[transition]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[utilization]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[validation]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[verification]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[MOE]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[MOP]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[TPM]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[SBS]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[WBS]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[PMP &#8211; SEMP relationships]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[SEMP outline.]]></keywordterm>
+          </keyword>
+        </keywordset>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>

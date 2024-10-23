@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[ANSI/IEEE Std 32-1972]]></title>
+  <normtitle><![CDATA[ANSI/IEEE Std 32-1972]]></normtitle>
+  <standardsfamilytitle>IEEE Standard Requirements, Terminology, and Test Procedures for Neutral Grounding Devices</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b000064801a02b7</idamsid>
+    <stdnumber>32-1972</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>183</standard_id>
+    <standard_status>Superseded</standard_status>
+    <standard_relationship prodnum="" relationship_date="12/31/1969 7:00:00 PM" type="F">9-12-1997</standard_relationship>
+    <packagememberset>
+      <packagemember>IEL</packagemember>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="New-2005" mediatype="Electronic">978-0-7381-0917-6</isbn>
+    <standard_family>32</standard_family>
+    <standardpackageset>
+      <standard_package>Surge Protective Devices</standard_package>
+      <standard_package>Reading Room</standard_package>
+    </standardpackageset>
+    <icscodes>
+      <code_term codenum="01.040.29">Electrical engineering (Vocabularies)</code_term>
+      <code_term codenum="29.120.50">Fuses and other overcurrent protection devices</code_term>
+    </icscodes>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[Transformers of the IEEE Power and Energy Society]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <pubtopicalbrowseset>
+      <pubtopicalbrowse>Power, Energy and Industry Applications</pubtopicalbrowse>
+    </pubtopicalbrowseset>
+    <copyrightgroup>
+      <copyright>
+        <year>1972</year>
+        <holder>IEEE</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STDSU40329</productnumber>
+    <PubApprovalDate>21 March 1972</PubApprovalDate>
+    <holdstatus>Publish</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>2760</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>1972</year>
+      <idamsid>0b000064820d9ac4</idamsid>
+      <issue>
+        <amsid>671</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[IEEE Standard Requirements, Terminology, and Test Procedures for Neutral Grounding Devices]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <articledoi>10.1109/IEEESTD.1972.118967</articledoi>
+        <idamsid>0b000064801a02bb</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>T</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <abstract abstracttype="Standard"><![CDATA[IEEE Std 32-1972 (Reaff 1990); IEEE Standard Requirements, Terminology, and Test Procedures for Neutral Grounding Devices. This standard applies to devices (other than surge arresters) used for the purpose of controlling the ground current or the potentials to ground of alternating current systems. It defines usual and unusual service conditions, and gives bases for rating such devices. Specifications are given for temperature limitations, dielectric tests, routine tests, losses and impedance measurements, and construction items.]]></abstract>
+        <articlestdscope><![CDATA[This standard applies to devices used for the purpose of controlling the ground current or the potentials to ground of an alternating current system. These devices are: grounding transformers, ground-fault neutralizers, resistors, reactors, capacitors, or combinations of these.]]></articlestdscope>
+        <date datetype="OriginalPub">
+          <year>1972</year>
+          <month>June</month>
+          <day>12</day>
+        </date>
+        <date datetype="ePub">
+          <year>2014</year>
+          <month>5</month>
+          <day>9</day>
+        </date>
+        <size>363863</size>
+        <filename docpartition="1" filetype="MainPDF">00018422.pdf</filename>
+        <artpagenums endpage="36" startpage="1">1-36</artpagenums>
+        <amsid>18422</amsid>
+        <keywordset keywordtype="IEEE">
+          <keyword>
+            <keywordterm><![CDATA[Grounding]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Standards]]></keywordterm>
+          </keyword>
+        </keywordset>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[IEEE Std C95.1-2019/Cor2-2020 (Corrigenda to IEEE Std C95.1-2019)]]></title>
+  <normtitle><![CDATA[IEEE Std C95.1-2019/Cor2-2020 (Corrigenda to IEEE Std C95.1-2019)]]></normtitle>
+  <standardsfamilytitle>IEEE Standard for Safety Levels with Respect to Human Exposure to Electric, Magnetic, and Electromagnetic Fields, 0 Hz to 300 GHz</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b0000648d27efb1</idamsid>
+    <stdnumber>C95.1-2019/Cor 2-2020</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>10321</standard_id>
+    <standard_status>Active</standard_status>
+    <standardmodifierset>
+      <standard_modifier>Approved</standard_modifier>
+    </standardmodifierset>
+    <standard_relationship prodnum="" relationship_date="12/31/1969 7:00:00 PM" type="C">8859677</standard_relationship>
+    <packagememberset>
+      <packagemember>IEL</packagemember>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="New-2005" mediatype="Electronic">978-1-5044-7055-1</isbn>
+    <standard_family>C95.1</standard_family>
+    <standardpackageset>
+      <standard_package>Electromagnetic Compatibility</standard_package>
+      <standard_package>GET C95 Standards: Safety Levels with Respect To Human Exposure To Radio Frequency Electromagnetic Fields</standard_package>
+    </standardpackageset>
+    <icscodes>
+      <code_term codenum="13.280">Radiation protection</code_term>
+    </icscodes>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[IEEE-SASB Coordinating Committees]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <pubtopicalbrowseset>
+      <pubtopicalbrowse>Bioengineering</pubtopicalbrowse>
+      <pubtopicalbrowse>Components, Circuits, Devices and Systems</pubtopicalbrowse>
+      <pubtopicalbrowse>Fields, Waves and Electromagnetics</pubtopicalbrowse>
+    </pubtopicalbrowseset>
+    <copyrightgroup>
+      <copyright>
+        <year>2020</year>
+        <holder>IEEE</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STD24408</productnumber>
+    <PubApprovalDate>24 Sept. 2020</PubApprovalDate>
+    <holdstatus>Publish</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>9238521</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>2020</year>
+      <idamsid>0b0000648d27efb2</idamsid>
+      <issue>
+        <amsid>9238522</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[IEEE Standard for Safety Levels with Respect to Human Exposure to Electric, Magnetic, and Electromagnetic Fields, 0 Hz to 300 GHz - Corrigenda 2]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <articledoi>10.1109/IEEESTD.2020.9238523</articledoi>
+        <idamsid>0b0000648d27efb3</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>T</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <abstract abstracttype="Standard"><![CDATA[Technical corrections are addressed in this corrigendum. Figure 1 and Figure 2 in IEEE Std C95.1-2019 were found to be incorrect. They did not accurately portray the limits given in Table 2, Table 3, and Table 4. The figures were corrected with respect to frequency extent and breakpoints to be consistent with the tables.]]></abstract>
+        <articlestdscope><![CDATA[Correct Figures 1 and 2.]]></articlestdscope>
+        <articlestdpurpose><![CDATA[The purpose of this standard is to provide science-based exposure criteria to protect against established adverse health effects in humans associated with exposure to electric, magnetic, and electromagnetic fields; induced and contact currents; and contact voltages, over the frequency range of 0 Hz to 300 GHz.]]></articlestdpurpose>
+        <date datetype="OriginalPub">
+          <year>2020</year>
+          <month>Oct.</month>
+          <day>21</day>
+        </date>
+        <date datetype="ePub">
+          <year>2020</year>
+          <month>10</month>
+          <day>23</day>
+        </date>
+        <article_publication_date>10/21/2020 12:00:00 AM</article_publication_date>
+        <size>1072120</size>
+        <filename docpartition="7" filetype="MainPDF">09238523.pdf</filename>
+        <artpagenums endpage="15" startpage="1">1-15</artpagenums>
+        <amsid>9238523</amsid>
+        <keywordset keywordtype="IEEEFree">
+          <keyword>
+            <keywordterm><![CDATA[electric field strength]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[exposure reference level (ERL)]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[IEEE C95.1&#8482;]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[magnetic flux density]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[restricted environment]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[unrestricted environment]]></keywordterm>
+          </keyword>
+        </keywordset>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>
