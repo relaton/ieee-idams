@@ -1,7 +1,5 @@
+# lib/ieee/idams/publication.rb
 # frozen_string_literal: true
-
-require_relative "publication_info"
-require_relative "volume"
 
 module Ieee
   module Idams

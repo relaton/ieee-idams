@@ -1,0 +1,26 @@
+# lib/ieee/idams/volume.rb
+# frozen_string_literal: true
+
+require_relative "volume_info"
+require_relative "article"
+
+module Ieee
+  module Idams
+    # Represents a volume containing articles
+    class Volume < Lutaml::Model::Serializable
+      # Volume information
+      # @return [VolumeInfo] volume metadata
+      attribute :volumeinfo, VolumeInfo
+
+      # List of articles
+      # @return [Array<Article>] articles in volume
+      attribute :article, Article, collection: true
+
+      xml do
+        root "volume"
+        map_element "volumeinfo", to: :volumeinfo
+        map_element "article", to: :article
+      end
+    end
+  end
+end
