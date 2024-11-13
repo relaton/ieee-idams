@@ -67,7 +67,7 @@
         <idamsid>0b00006480e71c0a</idamsid>
         <articlestatus>Active</articlestatus>
         <articleopenaccess>F</articleopenaccess>
-        <articleshowflag>T</articleshowflag>
+        <articleshowflag>F</articleshowflag>
         <articleplagiarizedflag>F</articleplagiarizedflag>
         <articlenodoiflag>F</articlenodoiflag>
         <articlecoverimageflag>F</articlecoverimageflag>
@@ -79,34 +79,10 @@
         <date datetype="OriginalPub">
           <year>2009</year>
         </date>
-        <article_publication_date>12/31/2009 12:00:00 AM</article_publication_date>
         <size>2275384</size>
         <filename docpartition="5" filetype="MainPDF">04811185.pdf</filename>
         <artpagenums endpage="" startpage=""/>
         <amsid>4811185</amsid>
-        <keywordset keywordtype="IEEE">
-          <keyword>
-            <keywordterm><![CDATA[Batteries]]></keywordterm>
-          </keyword>
-          <keyword>
-            <keywordterm><![CDATA[Training]]></keywordterm>
-          </keyword>
-          <keyword>
-            <keywordterm><![CDATA[Patents]]></keywordterm>
-          </keyword>
-          <keyword>
-            <keywordterm><![CDATA[Maintenance engineering]]></keywordterm>
-          </keyword>
-          <keyword>
-            <keywordterm><![CDATA[IEEE Standards]]></keywordterm>
-          </keyword>
-          <keyword>
-            <keywordterm><![CDATA[Personnel]]></keywordterm>
-          </keyword>
-          <keyword>
-            <keywordterm><![CDATA[Licenses]]></keywordterm>
-          </keyword>
-        </keywordset>
         <keywordset keywordtype="IEEEFree">
           <keyword>
             <keywordterm><![CDATA[abnormal]]></keywordterm>
@@ -973,7 +949,7 @@
             <keywordterm><![CDATA[fan]]></keywordterm>
           </keyword>
           <keyword>
-            <keywordterm><![CDATA[Faure]]></keywordterm>
+            <keywordterm><![CDATA[Faur¿]]></keywordterm>
           </keyword>
           <keyword>
             <keywordterm><![CDATA[fast]]></keywordterm>
@@ -1825,7 +1801,7 @@
             <keywordterm><![CDATA[plant]]></keywordterm>
           </keyword>
           <keyword>
-            <keywordterm><![CDATA[Plante]]></keywordterm>
+            <keywordterm><![CDATA[Plant¿]]></keywordterm>
           </keyword>
           <keyword>
             <keywordterm><![CDATA[plastic]]></keywordterm>

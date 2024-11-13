@@ -1,4 +1,5 @@
 require_relative "keyword_set"
+require_relative "multimedia"
 require_relative "author_group"
 require_relative "article_copyright"
 require_relative "article_date"
@@ -26,6 +27,10 @@ module Ieee
       # Article status
       # @return [String] Active or Inactive
       attribute :articlestatus, :string, values: %w[Active Inactive]
+
+      # Content type
+      # @return [String] type of content
+      attribute :content_type, :string
 
       # Open access status
       # @return [String] open access indicator
@@ -107,6 +112,10 @@ module Ieee
       # @return [String] AMS internal ID
       attribute :amsid, :string
 
+      # Multimedia
+      # @return [Multimedia] multimedia content
+      attribute :multimedia, Multimedia
+
       # Keywords
       # @return [Array<KeywordSet>] article keywords
       attribute :keywordset, KeywordSet, collection: true
@@ -117,6 +126,7 @@ module Ieee
         map_element "articledoi", to: :articledoi
         map_element "idamsid", to: :idamsid
         map_element "articlestatus", to: :articlestatus
+        map_element "contenttype", to: :content_type
         map_element "articleopenaccess", to: :articleopenaccess
         map_element "articleshowflag", to: :articleshowflag
 
@@ -141,6 +151,7 @@ module Ieee
         map_element "filename", to: :filename
         map_element "artpagenums", to: :artpagenums
         map_element "amsid", to: :amsid
+        map_element "multimedia", to: :multimedia
         map_element "keywordset", to: :keywordset
       end
     end

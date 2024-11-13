@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require_relative "publication_acronym"
 require_relative "isbn"
 require_relative "copyright_group"
 require_relative "publisher"
@@ -47,6 +48,10 @@ module Ieee
       # IEEE abbreviation
       # @return [String] IEEE abbreviation
       attribute :ieeeabbrev, :string
+
+      # IEEE publication acronym
+      # @return [String] IEEE publication acronym
+      attribute :acronym, PublicationAcronym
 
       # Publication status
       # @return [String] Active or Inactive
@@ -149,6 +154,7 @@ module Ieee
         map_element "publicationsubtype", to: :publicationsubtype
         map_element "standard_subtype", to: :standard_subtype
         map_element "ieeeabbrev", to: :ieeeabbrev
+        map_element "acronym", to: :acronym
         map_element "pubstatus", to: :pubstatus
         map_element "publicationopenaccess", to: :publicationopenaccess
         map_element "standard_id", to: :standard_id
