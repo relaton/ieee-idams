@@ -7,7 +7,7 @@ RSpec.describe Ieee::Idams::Publication do
   # end
 
   Dir.glob("spec/fixtures/*.xml").each do |f|
-    it "round-trips IEEE IDAMS record: #{id}" do
+    it "round-trips IEEE IDAMS record: #{f}" do
       input = File.read(f)
 
       output = Ieee::Idams::Publication.from_xml(input).to_xml(

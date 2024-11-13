@@ -1,13 +1,8 @@
-# lib/ieee/idams.rb
 # frozen_string_literal: true
 
 require_relative "idams/version"
 require_relative "idams/publication_info"
 require_relative "idams/publication"
-require_relative "idams/book"
-require_relative "idams/book_info"
-require_relative "idams/chapter"
-require_relative "idams/chapter_info"
 require_relative "idams/isbn"
 require_relative "idams/pub_sponsoring_committee_set"
 require_relative "idams/pub_topical_browse_set"

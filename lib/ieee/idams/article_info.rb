@@ -1,5 +1,10 @@
 require_relative "keyword_set"
 require_relative "author_group"
+require_relative "article_copyright"
+require_relative "article_date"
+require_relative "article_filename"
+require_relative "article_page_nums"
+require_relative "article_abstract"
 
 module Ieee
   module Idams
@@ -24,23 +29,63 @@ module Ieee
 
       # Open access status
       # @return [String] open access indicator
-      attribute :articleopenaccess, :string
+      attribute :articleopenaccess, :string, values: %w[T F]
 
       # Display flag
       # @return [String] show/hide indicator
-      attribute :articleshowflag, :string
+      attribute :articleshowflag, :string, values: %w[T F]
+
+      # Article plagiarism flag
+      # @return [String] plagiarism indicator
+      attribute :articleplagiarizedflag, :string, values: %w[T F]
+
+      # Article no DOI flag
+      # @return [String] no DOI indicator
+      attribute :articlenodoiflag, :string, values: %w[T F]
+
+      # Article cover image flag
+      # @return [String] cover image indicator
+      attribute :articlecoverimageflag, :string, values: %w[T F]
+
+      # Article reference flag
+      # @return [String] reference indicator
+      attribute :articlereferenceflag, :string, values: %w[T F]
+
+      # Article peer review flag
+      # @return [String] peer review indicator
+      attribute :articlepeerreviewflag, :string, values: %w[T F]
 
       # Hold status
       # @return [String] Publish or Hold
       attribute :holdstatus, :string, values: %w[Publish Hold]
 
+      # Article copyright
+      # @return [String] copyright statement
+      attribute :articlecopyright, ArticleCopyright
+
       # Abstract
       # @return [String] article abstract
-      attribute :abstract, :string
+      attribute :abstract, ArticleAbstract
 
       # Author information
       # @return [AuthorGroup] article authors
       attribute :authorgroup, AuthorGroup
+
+      # Standard scope
+      # @return [String] standard scope
+      attribute :articlestdscope, :string
+
+      # Standard purpose
+      # @return [String] standard purpose
+      attribute :articlestdpurpose, :string
+
+      # Dates
+      # @return [String] publication dates
+      attribute :date, ArticleDate, collection: true
+
+      # Article publication date
+      # @return [String] publication date
+      attribute :article_publication_date, :string
 
       # Number of pages
       # @return [Integer] page count
@@ -52,11 +97,11 @@ module Ieee
 
       # PDF filename
       # @return [String] name of PDF file
-      attribute :filename, :string, raw: true
+      attribute :filename, ArticleFilename
 
       # Page numbers
       # @return [String] start and end page numbers
-      attribute :artpagenums, :string
+      attribute :artpagenums, ArticlePageNums
 
       # System ID
       # @return [String] AMS internal ID
@@ -74,9 +119,23 @@ module Ieee
         map_element "articlestatus", to: :articlestatus
         map_element "articleopenaccess", to: :articleopenaccess
         map_element "articleshowflag", to: :articleshowflag
+
+        map_element "articleopenaccess", to: :articleopenaccess
+        map_element "articleshowflag", to: :articleshowflag
+        map_element "articleplagiarizedflag", to: :articleplagiarizedflag
+        map_element "articlenodoiflag", to: :articlenodoiflag
+        map_element "articlecoverimageflag", to: :articlecoverimageflag
+        map_element "articlereferenceflag", to: :articlereferenceflag
+        map_element "articlepeerreviewflag", to: :articlepeerreviewflag
+
         map_element "holdstatus", to: :holdstatus
-        map_element "abstract", to: :abstract
+        map_element "articlecopyright", to: :articlecopyright
+        map_element "abstract", to: :abstract, cdata: true
         map_element "authorgroup", to: :authorgroup
+        map_element "articlestdscope", to: :articlestdscope, cdata: true
+        map_element "articlestdpurpose", to: :articlestdpurpose, cdata: true
+        map_element "date", to: :date
+        map_element "article_publication_date", to: :article_publication_date
         map_element "numpages", to: :numpages
         map_element "size", to: :size
         map_element "filename", to: :filename

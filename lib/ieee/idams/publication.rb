@@ -29,8 +29,8 @@ module Ieee
 
       xml do
         root "publication"
-        map_element "title", to: :title
-        map_element "normtitle", to: :normtitle
+        map_element "title", to: :title, cdata: true
+        map_element "normtitle", to: :normtitle, cdata: true
         map_element "standardsfamilytitle", to: :standardsfamilytitle
         map_element "publicationinfo", to: :publicationinfo
         map_element "volume", to: :volume
