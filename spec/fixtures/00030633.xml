@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[ANSI/IEEE Std 583-1982]]></title>
+  <normtitle><![CDATA[ANSI/IEEE Std 583-1982]]></normtitle>
+  <standardsfamilytitle>IEEE Standard Modular Instrumentation and Digital Interface System (CAMAC)</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b0000648016f89d</idamsid>
+    <stdnumber>583-1982</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>815</standard_id>
+    <standard_status>Inactive</standard_status>
+    <standardmodifierset>
+      <standard_modifier>Reserved</standard_modifier>
+    </standardmodifierset>
+    <standard_relationship prodnum="" relationship_date="12/31/1969 7:00:00 PM" type="F">30-3-2006</standard_relationship>
+    <packagememberset>
+      <packagemember>IEL</packagemember>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="New-2005" mediatype="Electronic">978-0-7381-0697-7</isbn>
+    <standard_family>583</standard_family>
+    <standardpackageset>
+      <standard_package>Nuclear Engineering</standard_package>
+    </standardpackageset>
+    <icscodes>
+      <code_term codenum="27.120.99">Other standards related to nuclear energy</code_term>
+      <code_term codenum="35.240.99">IT applications in other fields</code_term>
+    </icscodes>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[Nuclear Instruments and Detectors of the IEEE Nuclear and Plasma Sciences Society]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <pubtopicalbrowseset>
+      <pubtopicalbrowse>Nuclear Engineering</pubtopicalbrowse>
+    </pubtopicalbrowseset>
+    <copyrightgroup>
+      <copyright>
+        <year>1982</year>
+        <holder>IEEE</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STDRES8524</productnumber>
+    <PubApprovalDate>17 Sept. 1981</PubApprovalDate>
+    <holdstatus>Publish</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>2623</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>1982</year>
+      <idamsid>0b000064820d89c8</idamsid>
+      <notegroup>
+        <note>Note for DR Test</note>
+      </notegroup>
+      <issue>
+        <amsid>1282</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[IEEE Standard Modular Instrumentation and Digital Interface System (CAMAC) (Computer Automated Measurement and Control)]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <articledoi>10.1109/IEEESTD.1982.82363</articledoi>
+        <idamsid>0b0000648016f8a1</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>T</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <abstract abstracttype="Standard"><![CDATA[This standard is intended to serve as a basis for a range of modular instrumentation capable of interfacing transducers and other devices to digital controllers for data and control. It consists of mechanical standards and signal standards that are sufficient to ensure physical and operational compatibility between units regardless of source. The standard fully specifies a data bus (Dataway) by means of which instruments and other functional modules can communicate with each other, with peripherals, with computers, and with other external controllers.]]></abstract>
+        <date datetype="OriginalPub">
+          <year>1982</year>
+          <month>Feb.</month>
+          <day>26</day>
+        </date>
+        <date datetype="ePub">
+          <year>2016</year>
+          <month>3</month>
+          <day>11</day>
+        </date>
+        <size>1313179</size>
+        <filename docpartition="1" filetype="MainPDF">00030633.pdf</filename>
+        <artpagenums endpage="84" startpage="1">1-84</artpagenums>
+        <amsid>30633</amsid>
+        <keywordset keywordtype="IEEE">
+          <keyword>
+            <keywordterm><![CDATA[CAMAC]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Computer interfaces]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Measurement standards]]></keywordterm>
+          </keyword>
+        </keywordset>
+        <keywordset keywordtype="IEEEFree">
+          <keyword>
+            <keywordterm><![CDATA[CAMAC]]></keywordterm>
+          </keyword>
+        </keywordset>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>
