@@ -1,4 +1,3 @@
-# lib/ieee/idams/isbn.rb
 # frozen_string_literal: true
 
 module Ieee

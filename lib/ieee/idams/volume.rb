@@ -1,4 +1,3 @@
-# lib/ieee/idams/volume.rb
 # frozen_string_literal: true
 
 require_relative "volume_info"

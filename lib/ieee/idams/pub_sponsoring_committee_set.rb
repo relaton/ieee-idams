@@ -1,4 +1,3 @@
-# lib/ieee/idams/pub_sponsoring_committee_set.rb
 # frozen_string_literal: true
 
 module Ieee
@@ -11,7 +10,7 @@ module Ieee
 
       xml do
         root "pubsponsoringcommitteeset"
-        map_element "pubsponsoringcommittee", to: :pubsponsoringcommittee
+        map_element "pubsponsoringcommittee", to: :pubsponsoringcommittee, cdata: true
       end
     end
   end

@@ -1,4 +1,3 @@
-# lib/ieee/idams/publisher.rb
 # frozen_string_literal: true
 
 require_relative "address"

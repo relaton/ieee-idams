@@ -1,14 +1,11 @@
-# lib/ieee/idams/pub_topical_browse_set.rb
 # frozen_string_literal: true
 
 module Ieee
   module Idams
     # Represents a set of topical browse categories
     class PubTopicalBrowseSet < Lutaml::Model::Serializable
-      # List of topical categories
-      # @return [Array<String>] subject classifications
-      attribute :pubtopicalbrowse, :string, collection: true
 
+      # List of topical browse categories
       VALID_CATEGORIES = [
         "Aerospace",
         "Bioengineering",
@@ -28,20 +25,25 @@ module Ieee
         "Transportation",
       ].freeze
 
+      # List of topical categories
+      # @return [Array<String>] subject classifications
+      attribute :pubtopicalbrowse, :string, collection: true,
+                                    values: VALID_CATEGORIES
+
       xml do
         root "pubtopicalbrowseset"
         map_element "pubtopicalbrowse", to: :pubtopicalbrowse
       end
 
-      def validate
-        errors = super
-        pubtopicalbrowse.each do |category|
-          unless VALID_CATEGORIES.include?(category)
-            errors << "Invalid topical browse category: #{category}"
-          end
-        end
-        errors
-      end
+      # def validate
+      #   errors = super
+      #   pubtopicalbrowse.each do |category|
+      #     unless VALID_CATEGORIES.include?(category)
+      #       errors << "Invalid topical browse category: #{category}"
+      #     end
+      #   end
+      #   errors
+      # end
     end
   end
 end

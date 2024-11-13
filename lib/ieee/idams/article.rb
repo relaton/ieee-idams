@@ -1,4 +1,3 @@
-# lib/ieee/idams/article.rb
 # frozen_string_literal: true
 
 require_relative "article_info"
@@ -17,7 +16,7 @@ module Ieee
 
       xml do
         root "article"
-        map_element "title", to: :title
+        map_element "title", to: :title, cdata: true
         map_element "articleinfo", to: :articleinfo
       end
     end

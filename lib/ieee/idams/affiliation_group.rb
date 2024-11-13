@@ -1,4 +1,3 @@
-# lib/ieee/idams/affiliation_group.rb
 # frozen_string_literal: true
 
 require_relative "affiliation"
