@@ -1,8 +1,9 @@
+# frozen_string_literal: true
+
 require_relative "keyword"
 
 module Ieee
   module Idams
-
     # Represents a set of keywords
     class KeywordSet < Lutaml::Model::Serializable
       # Keyword type

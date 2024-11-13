@@ -14,7 +14,7 @@ RSpec.describe Ieee::Idams::Publication do
       output = Ieee::Idams::Publication.from_xml(input).to_xml(
         pretty: true,
         declaration: true,
-        encoding: "utf-8",
+        encoding: "utf-8"
       )
 
       expect(output).to be_analogous_with(input)

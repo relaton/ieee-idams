@@ -2,10 +2,8 @@
 
 module Ieee
   module Idams
-
     # Group of notes
     class VolumeNoteGroup < Lutaml::Model::Serializable
-
       # Textual note
       # @return [String] A textual note
       attribute :note, :string, collection: true

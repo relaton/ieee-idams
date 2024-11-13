@@ -1,6 +1,7 @@
+# frozen_string_literal: true
+
 module Ieee
   module Idams
-
     # Represents a keyword
     class Keyword < Lutaml::Model::Serializable
       # Keyword term

@@ -2,7 +2,6 @@
 
 module Ieee
   module Idams
-
     # Publication ID acronym
     class PublicationAcronym < Lutaml::Model::Serializable
       # Type of acronym

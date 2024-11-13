@@ -1,6 +1,7 @@
+# frozen_string_literal: true
+
 module Ieee
   module Idams
-
     # Contains information about a volume issue
     class VolumeInfoIssue < Lutaml::Model::Serializable
       # Issue number

@@ -2,7 +2,6 @@
 
 module Ieee
   module Idams
-
     # Contains volume metadata
     class PubSponsor < Lutaml::Model::Serializable
       # IEEE Society that sponsors the publication
