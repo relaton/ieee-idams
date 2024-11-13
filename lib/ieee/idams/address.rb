@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Ieee
   module Idams
     # Represents a physical address
@@ -20,9 +22,9 @@ module Ieee
 
       xml do
         root "address"
-        map_element "street", to: :street #, cdata: true
-        map_element "city", to: :city #, cdata: true
-        map_element "country", to: :country #, cdata: true
+        map_element "street", to: :street # , cdata: true
+        map_element "city", to: :city # , cdata: true
+        map_element "country", to: :country # , cdata: true
         map_element "postcode", to: :postcode
       end
     end

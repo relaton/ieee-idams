@@ -1,8 +1,9 @@
+# frozen_string_literal: true
+
 module Ieee
   module Idams
     # Represents an article abstract
     class ArticleAbstract < Lutaml::Model::Serializable
-
       # Abstract type
       # @return [String] type of abstract
       attribute :abstract_type, :string

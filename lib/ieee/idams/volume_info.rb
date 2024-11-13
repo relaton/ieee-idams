@@ -5,7 +5,6 @@ require_relative "volume_note_group"
 
 module Ieee
   module Idams
-
     # Contains volume metadata
     class VolumeInfo < Lutaml::Model::Serializable
       # Publication year

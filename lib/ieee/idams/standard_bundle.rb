@@ -4,7 +4,6 @@ module Ieee
   module Idams
     # Standard Bundle
     class StandardBundle < Lutaml::Model::Serializable
-
       # <standard_bundle>
       #   <bundle_name>American National Standard Recommended Practice for an On-Site, Ad Hoc Test Method for Estimating Electromagnetic Immunity of Medical Devices to Radiated Radio-Frequency (RF) Emissions from RF Transmitters - Redline</bundle_name>
       #   <bundle_type>Suggested</bundle_type>

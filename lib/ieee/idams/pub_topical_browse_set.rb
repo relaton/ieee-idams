@@ -4,7 +4,6 @@ module Ieee
   module Idams
     # Represents a set of topical browse categories
     class PubTopicalBrowseSet < Lutaml::Model::Serializable
-
       # List of topical browse categories
       VALID_CATEGORIES = [
         "Aerospace",
@@ -22,13 +21,13 @@ module Ieee
         "Power, Industry and Industry Applications",
         "Robotics and Control Systems",
         "Signal Processing and Analysis",
-        "Transportation",
+        "Transportation"
       ].freeze
 
       # List of topical categories
       # @return [Array<String>] subject classifications
       attribute :pubtopicalbrowse, :string, collection: true,
-                                    values: VALID_CATEGORIES
+                                            values: VALID_CATEGORIES
 
       xml do
         root "pubtopicalbrowseset"

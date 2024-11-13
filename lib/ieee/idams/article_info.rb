@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative "keyword_set"
 require_relative "multimedia"
 require_relative "author_group"
@@ -9,7 +11,6 @@ require_relative "article_abstract"
 
 module Ieee
   module Idams
-
     # Contains detailed metadata about an article
     class ArticleInfo < Lutaml::Model::Serializable
       # Sequence number

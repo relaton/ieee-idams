@@ -1,8 +1,9 @@
+# frozen_string_literal: true
+
 require_relative "affiliation_address"
 
 module Ieee
   module Idams
-
     # Represents an institutional affiliation
     class Affiliation < Lutaml::Model::Serializable
       # AMS ID
