@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[IEEE Std 463-2013 (Revision of IEEE Std 463-2006) - Redline]]></title>
+  <normtitle><![CDATA[IEEE Std 463-2013 (Revision of IEEE Std 463-2006) - Redline]]></normtitle>
+  <standardsfamilytitle>IEEE Standard for Electrical Safety Practices in Electrolytic Cell Line Working Zones</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b00006481f4a35f</idamsid>
+    <stdnumber>463-2013</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>5264</standard_id>
+    <associated_punumber>6619397</associated_punumber>
+    <standard_status>Superseded</standard_status>
+    <standardmodifierset>
+      <standard_modifier>Redline</standard_modifier>
+    </standardmodifierset>
+    <standard_bundle>
+      <bundle_name>IEEE Standard for Electrical Safety Practices in Electrolytic Cell Line Working Zones - Redline</bundle_name>
+      <bundle_type>Mandatory</bundle_type>
+      <base_standard_product_number>STDSU98358</base_standard_product_number>
+      <bundle_product_number>STDSURL98358</bundle_product_number>
+    </standard_bundle>
+    <standard_relationship prodnum="" relationship_date="12/31/1969 7:00:00 PM" type="V">4117955</standard_relationship>
+    <standard_relationship prodnum="" relationship_date="12/31/1969 7:00:00 PM" type="S">8880583</standard_relationship>
+    <packagememberset>
+      <packagemember>IEL</packagemember>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="New-2005" mediatype="Electronic">978-0-7381-8803-4</isbn>
+    <standard_family>463</standard_family>
+    <standardpackageset>
+      <standard_package>Petroleum and Chemical Industrial Standards</standard_package>
+    </standardpackageset>
+    <icscodes>
+      <code_term codenum="13.260">Protection against electric shock. Live working</code_term>
+    </icscodes>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <pubtopicalbrowseset>
+      <pubtopicalbrowse>Power, Energy and Industry Applications</pubtopicalbrowse>
+      <pubtopicalbrowse>Fields, Waves and Electromagnetics</pubtopicalbrowse>
+      <pubtopicalbrowse>Engineered Materials, Dielectrics and Plasmas</pubtopicalbrowse>
+      <pubtopicalbrowse>Components, Circuits, Devices and Systems</pubtopicalbrowse>
+    </pubtopicalbrowseset>
+    <copyrightgroup>
+      <copyright>
+        <year>2013</year>
+        <holder>IEEE</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STDSURL98358</productnumber>
+    <PubApprovalDate>23 Aug. 2013</PubApprovalDate>
+    <holdstatus>Publish</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>6658814</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>2013</year>
+      <idamsid>0b000064820dd852</idamsid>
+      <issue>
+        <amsid>6658815</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[IEEE Standard for Electrical Safety Practices in Electrolytic Cell Line Working Zones - Redline]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <idamsid>0b00006481f4a361</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>T</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <abstract abstracttype="Standard"><![CDATA[Means for improved safeguarding of personnel while operating or maintaining equipment located in electrolytic cell line working zones are provided. Included are related requirements for equipment and electrical conductor installations. The general types of electrolytic cells covered include, but are not limited to, the direct current cells used in the production of aluminum, cadmium, sodium chlorate, chlorine, copper, fluorine, hydrogen peroxide, magnesium, sodium, and zinc.]]></abstract>
+        <articlestdscope><![CDATA[This standard covers means of improved safeguarding of personnel while operating or maintaining equipment located in electrolytic cell line working zones. Included are related requirements for equipment and electrical conductor installations. The general types of electrolytic cells covered include, but are not limited to, the direct current (dc) cells used in the production of aluminum, cadmium, sodium chlorate, chlorine, copper, fluorine, hydrogen peroxide, magnesium, sodium and zinc. This standard does not cover the following: - Any electrical equipment that is neither part of the electrolytic process equipment nor installed or used in the cell line working zone - Electroplating and anodizing facilities - AC cells or furnaces - Electrotherremal process furnaces - Arc furnaces - Melting or heat treating facilities - Cells for hydrogen production - Cells used as a source of electric energy]]></articlestdscope>
+        <articlestdpurpose><![CDATA[The purpose of this standard is to provide methods for practical improved safeguarding of personnel operating or maintaining equipment in electrolytic cell line working zones from electrical hazards. The cell line working zone is defined in Clause 5. This standard permits alternate methods such as establishing and maintaining safety procedures if they accomplish the same objectives.]]></articlestdpurpose>
+        <date datetype="OriginalPub">
+          <year>2013</year>
+          <month>Oct.</month>
+          <day>4</day>
+        </date>
+        <date datetype="ePub">
+          <year>2013</year>
+          <month>11</month>
+          <day>8</day>
+        </date>
+        <size>4226579</size>
+        <filename docpartition="7" filetype="MainPDF">06658816.pdf</filename>
+        <artpagenums endpage="37" startpage="1">1-37</artpagenums>
+        <amsid>6658816</amsid>
+        <keywordset keywordtype="IEEE">
+          <keyword>
+            <keywordterm><![CDATA[IEEE standards]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Electrical safety]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Electrolytic cells]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Conductors]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Power cable installations]]></keywordterm>
+          </keyword>
+        </keywordset>
+        <keywordset keywordtype="IEEEFree">
+          <keyword>
+            <keywordterm><![CDATA[cell line working zone]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[electrical conductor installations]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[electrical safety]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[electrolytic cell line]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[IEEE 463(TM)]]></keywordterm>
+          </keyword>
+        </keywordset>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>
