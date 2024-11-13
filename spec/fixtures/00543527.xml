@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[IEEE Std 802.3r-1996]]></title>
+  <normtitle><![CDATA[IEEE Std 802.3r-1996]]></normtitle>
+  <standardsfamilytitle>IEEE Standards for Local Area Networks: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b0000648016ec06</idamsid>
+    <invpartnumber>8</invpartnumber>
+    <stdnumber>802.3r-1996</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>1076</standard_id>
+    <standard_status>Superseded</standard_status>
+    <standard_relationship prodnum="" relationship_date="12/31/1969 7:00:00 PM" type="T">2381</standard_relationship>
+    <packagememberset>
+      <packagemember>IEL</packagemember>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="New-2005" mediatype="Electronic">978-0-7381-0275-7</isbn>
+    <standard_family>802.3</standard_family>
+    <standardpackageset>
+      <standard_package>Local and Metropolitan Area Networks (LAN/MAN)</standard_package>
+    </standardpackageset>
+    <icscodes>
+      <code_term codenum="35.100.10">Physical layer</code_term>
+      <code_term codenum="35.110">Networking</code_term>
+    </icscodes>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[LAN/MAN Standards Committee of the IEEE Computer Society]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <pubtopicalbrowseset>
+      <pubtopicalbrowse>Communication, Networking and Broadcast Technologies</pubtopicalbrowse>
+    </pubtopicalbrowseset>
+    <copyrightgroup>
+      <copyright>
+        <year>1996</year>
+        <holder>IEEE</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STDSU94433</productnumber>
+    <PubApprovalDate>29 July 1996</PubApprovalDate>
+    <holdstatus>Publish</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>4221</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>1996</year>
+      <idamsid>0b000064820d8782</idamsid>
+      <issue>
+        <amsid>11947</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[IEEE Standard Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications - Type 10BASE5 Medium Attachment Unit (MAU) Protocol Implementation Conformance Statement (PICS) Proforma (Subclause 8.8)]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <articledoi>10.1109/IEEESTD.1996.81531</articledoi>
+        <idamsid>0b0000648016ec0a</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>T</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <abstract abstracttype="Standard"><![CDATA[A Protocol Implementation Conformance Statement (PICS) proforma for Type 10BASE5 Medium Attachment Unit (MAU) (clause 8) is provided. The PICS proforma is used to evaluate the conformance of a particular implementation of the standard.]]></abstract>
+        <articlestdscope><![CDATA[The supplier of a protocol implementation that is claimed to conform to Type 10BASE5 MAU (clause 8) specifications shall complete the following PICS proforma. A completed PICS proforma is the PICS for the implementation in question. The PICS is a statement of which capabilities and options of the protocol have been implemented. The PICS can be used for a variety of purposes by various parties.]]></articlestdscope>
+        <date datetype="OriginalPub">
+          <year>1996</year>
+          <month>Dec.</month>
+          <day>9</day>
+        </date>
+        <date datetype="ePub">
+          <year>2019</year>
+          <month>4</month>
+          <day>5</day>
+        </date>
+        <size>231449</size>
+        <filename docpartition="1" filetype="MainPDF">00543527.pdf</filename>
+        <artpagenums endpage="23" startpage="1">1-23</artpagenums>
+        <amsid>543527</amsid>
+        <keywordset keywordtype="IEEE">
+          <keyword>
+            <keywordterm><![CDATA[Carrier sense multiaccess]]></keywordterm>
+            <keywordmodifier>type 10BASE5 medium attachment unit, protocol implement. conformance statement</keywordmodifier>
+          </keyword>
+        </keywordset>
+        <keywordset keywordtype="IEEEFree">
+          <keyword>
+            <keywordterm><![CDATA[dynamic conformance testing]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[medium attachment unit]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[MAU]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[PICS proforma]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[protocol implementation conformance]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[static conformance review]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Type 10BASE5]]></keywordterm>
+          </keyword>
+        </keywordset>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[IEEE Std 802.11g-2003 (Amendment to IEEE Std 802.11, 1999 Edn. (Reaff 2003) as amended by IEEE Stds 802.11a-1999, 802.11b-1999, 802.11b-1999/Cor 1-2001, and 802.11d-2001)]]></title>
+  <normtitle><![CDATA[IEEE Std 802.11g-2003 (Amendment to IEEE Std 802.11, 1999 Edn. (Reaff 2003) as amended by IEEE Stds 802.11a-1999, 802.11b-1999, 802.11b-1999/Cor 1-2001, and 802.11d-2001)]]></normtitle>
+  <standardsfamilytitle>Standard for Information Technology - Telecommunications and information exchange between systems - Local and Metropolitan Area networks - Specific requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b00006480183dc1</idamsid>
+    <stdnumber>802.11g-2003</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>3046</standard_id>
+    <standard_status>Superseded</standard_status>
+    <standard_relationship prodnum="" relationship_date="12/31/1969 7:00:00 PM" type="I">https://standards.ieee.org/content/dam/ieee-standards/standards/web/documents/interpretations/802.11-2003_interp.zip</standard_relationship>
+    <standard_relationship prodnum="" relationship_date="12/31/1969 7:00:00 PM" type="T">9543</standard_relationship>
+    <packagememberset>
+      <packagemember>IEL</packagemember>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="New-2005" mediatype="Electronic">978-0-7381-3701-8</isbn>
+    <pubsponsor>
+      <society>Inst. Electr. &amp; Electron. Eng., New York, NY</society>
+    </pubsponsor>
+    <standard_family>802.11</standard_family>
+    <standardpackageset>
+      <standard_package>Local and Metropolitan Area Networks (LAN/MAN)</standard_package>
+    </standardpackageset>
+    <icscodes>
+      <code_term codenum="35.100.10">Physical layer</code_term>
+      <code_term codenum="35.110">Networking</code_term>
+      <code_term codenum="35.100.20">Data link layer</code_term>
+    </icscodes>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[LAN/MAN Standards Committee of the IEEE Computer Society]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <pubtopicalbrowseset>
+      <pubtopicalbrowse>Communication, Networking and Broadcast Technologies</pubtopicalbrowse>
+    </pubtopicalbrowseset>
+    <copyrightgroup>
+      <copyright>
+        <year>2003</year>
+        <holder>IEEE</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <address>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STDSU95134</productnumber>
+    <PubApprovalDate>12 June 2003</PubApprovalDate>
+    <holdstatus>Publish</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>8601</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>2003</year>
+      <idamsid>0b000064820d9273</idamsid>
+      <issue>
+        <amsid>27242</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications: Further Higher Data Rate Extension in the 2.4 GHz Band]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <articledoi>10.1109/IEEESTD.2003.94282</articledoi>
+        <idamsid>0b00006480183dc5</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>T</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <abstract abstracttype="Regular"><![CDATA[Changes and additions to IEEE Std 802.11, 1999 Edition, as amended by IEEE Stds 802.11a-1999, 802.11b-1999, 802.11b-1999/Cor 1-2001, and 802.11d-2001, are provided to support the further higher data rate extension for operation in the 2.4 GHz band]]></abstract>
+        <abstract abstracttype="Standard"><![CDATA[Changes and additions to IEEE Std 802.11, 1999 Edition, as amended by IEEE Stds 802.11a-1999, 802.11b-1999, 802.11b-1999/Cor 1-2001, and 802.11d-2001, are provided to support the further higher data rate extension for operation in the 2.4 GHz band.]]></abstract>
+        <articlestdscope><![CDATA[To develop a higher speed(s) PHY extension to 802.11b.]]></articlestdscope>
+        <articlestdpurpose><![CDATA[To develop a new PHY extension to enhance the performance and the possible applications of the 802.11b compatible networks by increasing the data rate achievable by such devices. This technology will be beneficial for improved access to fixed network LAN and inter-network infrastructure (including access to other wireless LANs) via a network of access points, as well as creation of higher performance ad hoc networks.]]></articlestdpurpose>
+        <date datetype="LastInspecUpd">
+          <year>2009</year>
+          <month>1</month>
+          <day>15</day>
+        </date>
+        <date datetype="OriginalPub">
+          <year>2003</year>
+          <month>June</month>
+          <day>27</day>
+        </date>
+        <date datetype="ePub">
+          <year>2019</year>
+          <month>4</month>
+          <day>5</day>
+        </date>
+        <size>1723029</size>
+        <filename docpartition="5" filetype="MainPDF">01210624.pdf</filename>
+        <artpagenums endpage="104" startpage="1">1-104</artpagenums>
+        <amsid>1210624</amsid>
+        <keywordset keywordtype="IEEE">
+          <keyword>
+            <keywordterm><![CDATA[IEEE Standards]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Local area networks]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Media Access Protocol]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Physical layer]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Patents]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[ISO Standards]]></keywordterm>
+          </keyword>
+        </keywordset>
+        <keywordset keywordtype="IEEEFree">
+          <keyword>
+            <keywordterm><![CDATA[LAN]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[local area network]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[radio frequency]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[wireless]]></keywordterm>
+          </keyword>
+        </keywordset>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>
