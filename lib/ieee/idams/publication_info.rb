@@ -6,6 +6,7 @@ require_relative "publisher"
 require_relative "address"
 require_relative "pub_sponsoring_committee_set"
 require_relative "pub_topical_browse_set"
+require_relative "pub_sponsor"
 require_relative "standard_modifier_set"
 require_relative "standard_relationship"
 require_relative "standard_bundle"
@@ -22,6 +23,10 @@ module Ieee
       # System ID
       # @return [String] IDAMS internal ID
       attribute :idamsid, :string
+
+      # Inventory part number
+      # @return [String] inventory part number
+      attribute :invpartnumber, :string
 
       # Standard number
       # @return [String] standard identifier
@@ -55,6 +60,10 @@ module Ieee
       # @return [String] standard identifier
       attribute :standard_id, :string
 
+      # Associated PU number
+      # @return [String] associated PU number
+      attribute :associated_punumber, :string
+
       # Standard status
       # @return [String] standard status
       attribute :standard_status, :string
@@ -78,6 +87,10 @@ module Ieee
       # ISBN information
       # @return [Isbn] ISBN details
       attribute :isbn, Isbn
+
+      # ISBN information
+      # @return [PubSponsor] sponsor details
+      attribute :pubsponsor, PubSponsor
 
       # Standard family
       # @return [String] family of standards
@@ -130,6 +143,7 @@ module Ieee
       xml do
         root "publicationinfo"
         map_element "idamsid", to: :idamsid
+        map_element "invpartnumber", to: :invpartnumber
         map_element "stdnumber", to: :stdnumber
         map_element "publicationtype", to: :publicationtype
         map_element "publicationsubtype", to: :publicationsubtype
@@ -138,12 +152,14 @@ module Ieee
         map_element "pubstatus", to: :pubstatus
         map_element "publicationopenaccess", to: :publicationopenaccess
         map_element "standard_id", to: :standard_id
+        map_element "associated_punumber", to: :associated_punumber
         map_element "standard_status", to: :standard_status
         map_element "standardmodifierset", to: :standard_modifier_set
         map_element "standard_bundle", to: :standard_bundle
         map_element "standard_relationship", to: :standard_relationship
         map_element "packagememberset", to: :package_member_set
         map_element "isbn", to: :isbn
+        map_element "pubsponsor", to: :pubsponsor
         map_element "standard_family", to: :standard_family
         map_element "standardpackageset", to: :standard_package_set
         map_element "icscodes", to: :ics_codes

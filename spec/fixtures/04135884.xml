@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[IEEE Std 434-2006 (Revision of IEEE Std 434-1991)]]></title>
+  <normtitle><![CDATA[IEEE Std 434-2006 (Revision of IEEE Std 434-1991)]]></normtitle>
+  <standardsfamilytitle>IEEE Guide for Functional Evaluation of Insulation Systems for Large High-Voltage Machines</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b00006480777503</idamsid>
+    <stdnumber>434-2006</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>3679</standard_id>
+    <standard_status>Active</standard_status>
+    <standardmodifierset>
+      <standard_modifier>Approved</standard_modifier>
+    </standardmodifierset>
+    <standard_relationship prodnum="" relationship_date="" type="F">6-2-2013</standard_relationship>
+    <standard_relationship prodnum="" relationship_date="" type="V">2703</standard_relationship>
+    <packagememberset>
+      <packagemember>IEL</packagemember>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="New-2005" mediatype="Electronic">978-0-7381-5297-4</isbn>
+    <standard_family>434</standard_family>
+    <standardpackageset>
+      <standard_package>Electric Machinery</standard_package>
+    </standardpackageset>
+    <icscodes>
+      <code_term codenum="29.080.30">Insulation systems</code_term>
+    </icscodes>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[Electric Machinery of the IEEE Power and Energy Society]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <pubtopicalbrowseset>
+      <pubtopicalbrowse>Power, Energy and Industry Applications</pubtopicalbrowse>
+      <pubtopicalbrowse>Components, Circuits, Devices and Systems</pubtopicalbrowse>
+    </pubtopicalbrowseset>
+    <copyrightgroup>
+      <copyright>
+        <year>2007</year>
+        <holder>IEEE</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <publisherloc>New York</publisherloc>
+      <address>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STD95604</productnumber>
+    <PubApprovalDate>6 Dec. 2006</PubApprovalDate>
+    <holdstatus>Publish</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>4135882</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>2007</year>
+      <idamsid>0b000064820da722</idamsid>
+      <issue>
+        <amsid>4135883</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[IEEE Guide for Functional Evaluation of Insulation Systems for AC Electric Machines Rated 2300 V and Above]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <articledoi>10.1109/IEEESTD.2007.335900</articledoi>
+        <idamsid>0b0000648077756d</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>T</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <abstract abstracttype="Regular"><![CDATA[A procedure that may be used to evaluate and compare insulation systems used, or proposed for use, in large ac electric machines is described in this guide.]]></abstract>
+        <abstract abstracttype="Standard"><![CDATA[A procedure that may be used to evaluate and compare insulation systems used, orproposed for use, in large ac electric machines is described in this guide.]]></abstract>
+        <articlestdscope><![CDATA[This guide describes a procedure that may be used to evaluate and compare insulation systems used, or proposed for use, in large ac electric machines. The tests outlined herein are applicable to the groundwall insulation systems applied to form-wound, pre-insulated armature (stator) winding coils and/or bars of generators, motors, and synchronous condensers rated 2300 V or higher. The basic component of these insulation systems is usually mica combined with reinforcing, bonding, and impregnating materials. This guide is based on the experience of the industry with mica-based systems; any evaluation of other insulation systems should, however, consider the requirements of this guide. This document is not intended for use as a manufacturer's quality assurance test plan. Nor should it be used for specifying or procuring armature winding coils/bars.]]></articlestdscope>
+        <articlestdpurpose><![CDATA[During operation, an insulation system is subjected to electrical, thermal, mechanical, and environmental stresses that act and interact to cause irreversible changes in the properties of the insulation. The applied stresses initiate aging mechanisms that eventually lead to failure. The purpose of this guide is to provide winding manufacturers a means of evaluation in which an insulation system is exposed to influencing factors that simulate or are characteristic of actual service conditions. This guide establishes the basis for evaluating the aging of the electrical insulation system as a result of these influences.]]></articlestdpurpose>
+        <authorgroup>
+          <author>
+            <amsid>101980447</amsid>
+            <authororder>1</authororder>
+            <normname><![CDATA[C, A.]]></normname>
+            <nonnormname><![CDATA[A. C]]></nonnormname>
+            <firstname><![CDATA[A.]]></firstname>
+            <surname><![CDATA[C]]></surname>
+          </author>
+        </authorgroup>
+        <date datetype="LastInspecUpd">
+          <year>2008</year>
+          <month>2</month>
+          <day>11</day>
+        </date>
+        <date datetype="OriginalPub">
+          <year>2007</year>
+          <month>March</month>
+          <day>15</day>
+        </date>
+        <date datetype="ePub">
+          <year>2015</year>
+          <month>3</month>
+          <day>27</day>
+        </date>
+        <size>700082</size>
+        <filename docpartition="5" filetype="MainPDF">04135884.pdf</filename>
+        <artpagenums endpage="19" startpage="1">1-19</artpagenums>
+        <amsid>4135884</amsid>
+        <keywordset keywordtype="IEEEFree">
+          <keyword>
+            <keywordterm><![CDATA[ac]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[accelerated aging]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[armature winding]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[electric machine]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[electrical insulation]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[electromechanical]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[functional evaluation]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[stator winding]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[thermal endurance]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[thermal expansion]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[thermomechanical]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[voltage endurance]]></keywordterm>
+          </keyword>
+        </keywordset>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>

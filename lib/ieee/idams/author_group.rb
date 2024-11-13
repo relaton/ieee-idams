@@ -18,6 +18,14 @@ module Ieee
 
     # Represents an individual author
     class Author < Lutaml::Model::Serializable
+      # AMS ID
+      # @return [Integer] author's AMS ID
+      attribute :amsid, :integer
+
+      # Order of authorship
+      # @return [Integer] author's order in the list of authors
+      attribute :authororder, :integer
+
       # Normalized author name
       # @return [String] surname, initials format
       attribute :normname, :string
@@ -48,11 +56,13 @@ module Ieee
 
       xml do
         root "author"
-        map_element "normname", to: :normname
-        map_element "nonnormname", to: :nonnormname
-        map_element "firstname", to: :firstname
-        map_element "othername", to: :othername
-        map_element "surname", to: :surname
+        map_element "amsid", to: :amsid
+        map_element "authororder", to: :authororder
+        map_element "normname", to: :normname, cdata: true
+        map_element "nonnormname", to: :nonnormname, cdata: true
+        map_element "firstname", to: :firstname, cdata: true
+        map_element "othername", to: :othername, cdata: true
+        map_element "surname", to: :surname, cdata: true
         map_element "affgrp", to: :affgrp
         map_element "authortype", to: :authortype
       end
