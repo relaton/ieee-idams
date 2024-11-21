@@ -75,7 +75,7 @@ module Ieee
 
       # Standard relationship
       # @return [String] standard relationship
-      attribute :standard_relationship, StandardRelationship
+      attribute :standard_relationship, StandardRelationship, collection: true
 
       # Standard modifier set
       # @return [StandardModifierSet] standard modifier details
