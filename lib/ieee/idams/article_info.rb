@@ -71,7 +71,7 @@ module Ieee
 
       # Abstract
       # @return [String] article abstract
-      attribute :abstract, ArticleAbstract
+      attribute :abstract, ArticleAbstract, collection: true
 
       # Author information
       # @return [AuthorGroup] article authors
