@@ -91,7 +91,7 @@ module Ieee
 
       # ISBN information
       # @return [Isbn] ISBN details
-      attribute :isbn, Isbn
+      attribute :isbn, Isbn, collection: true
 
       # ISBN information
       # @return [PubSponsor] sponsor details
