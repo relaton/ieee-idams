@@ -4,7 +4,7 @@ module Ieee
   module Idams
     # Represents a set of standard modifiers
     class StandardModifierSet < Lutaml::Model::Serializable
-      attribute :standard_modifier, :string, collection: true
+      attribute :standard_modifier, :string
 
       xml do
         root "standardmodifierset"
