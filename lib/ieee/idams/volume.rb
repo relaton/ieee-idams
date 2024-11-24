@@ -12,8 +12,8 @@ module Ieee
       attribute :volumeinfo, VolumeInfo
 
       # List of articles
-      # @return [Array<Article>] articles in volume
-      attribute :article, Article, collection: true
+      # @return [Article] articles in volume
+      attribute :article, Article
 
       xml do
         root "volume"
