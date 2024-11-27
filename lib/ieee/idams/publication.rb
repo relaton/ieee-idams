@@ -2,11 +2,14 @@
 
 require_relative "publication_info"
 require_relative "volume"
+require_relative "pub_model"
 
 module Ieee
   module Idams
     # Represents an IEEE IDAMS publication record
     class Publication < Lutaml::Model::Serializable
+      model PubModel
+
       # Publication title
       # @return [String] normalized title
       attribute :title, :string
