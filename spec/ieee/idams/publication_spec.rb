@@ -11,11 +11,12 @@ RSpec.describe Ieee::Idams::Publication do
     next if input.empty?
 
     it "round-trips IEEE IDAMS record: #{f}" do
-      output = Ieee::Idams::Publication.from_xml(input).to_xml(
-        pretty: true,
-        declaration: true,
-        encoding: "utf-8"
-      )
+      pub_model = Ieee::Idams::Publication.from_xml(input)
+      output = Ieee::Idams::Publication.to_xml(pub_model)
+      #   pretty: true,
+      #   declaration: true,
+      #   encoding: "utf-8"
+      # )
 
       expect(output).to be_analogous_with(input)
     end
