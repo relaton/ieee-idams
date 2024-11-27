@@ -1,4 +1,6 @@
-RSpec.describe Ieee::Idams::PubModel do
+# frozen_string_literal: true
+
+RSpec.describe Ieee::Idams::PubModel do # rubocop:disable Metrics/BlockLength
   let(:xml) { File.read("spec/fixtures/00000003.xml") }
   subject { Ieee::Idams::Publication.from_xml(xml) }
 

@@ -80,7 +80,7 @@ module Ieee
       end
 
       def keyword
-        volume.article.articleinfo.keywordset[0]&.keyword&.map &:keywordterm
+        volume.article.articleinfo.keywordset[0]&.keyword&.map(&:keywordterm)
       end
 
       def ics
