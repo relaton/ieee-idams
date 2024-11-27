@@ -54,8 +54,11 @@ RSpec.describe Ieee::Idams::PubModel do # rubocop:disable Metrics/BlockLength
     expect(subject.link).to eq ["https://ieeexplore.ieee.org/document/3"]
   end
 
-  it "keyword" do
-    expect(subject.keyword).to eq ["Open systems"]
+  context "keyword" do
+    let(:xml) { File.read("spec/fixtures/00035042.xml") }
+    it do
+      expect(subject.keyword).to eq ["Logic circuits", "Standards", "diagrams", "Logic functions"]
+    end
   end
 
   it "ICS" do

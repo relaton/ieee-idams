@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+  <title><![CDATA[ANSI/IEEE Std 991-1986]]></title>
+  <normtitle><![CDATA[ANSI/IEEE Std 991-1986]]></normtitle>
+  <standardsfamilytitle>IEEE Standard for Logic Circuit Diagrams</standardsfamilytitle>
+  <publicationinfo>
+    <idamsid>0b000064801747dd</idamsid>
+    <stdnumber>991-1986</stdnumber>
+    <publicationtype>Standard</publicationtype>
+    <publicationsubtype>Standard Docs</publicationsubtype>
+    <standard_subtype>IEEE Standard</standard_subtype>
+    <ieeeabbrev>IEEESTD</ieeeabbrev>
+    <pubstatus>Active</pubstatus>
+    <publicationopenaccess>F</publicationopenaccess>
+    <standard_id>1365</standard_id>
+    <standard_status>Inactive</standard_status>
+    <standardmodifierset>
+      <standard_modifier>Reserved</standard_modifier>
+    </standardmodifierset>
+    <standard_relationship prodnum="" relationship_date="12/31/1969 7:00:00 PM" type="F">17-3-1994</standard_relationship>
+    <packagememberset>
+      <packagemember>IEL</packagemember>
+      <packagemember>STDSELECT</packagemember>
+    </packagememberset>
+    <isbn isbntype="New-2005" mediatype="Electronic">978-0-7381-0950-3</isbn>
+    <standard_family>991</standard_family>
+    <standardpackageset>
+      <standard_package>Testing, Instrumentation and Measurement, and Metric Practice</standard_package>
+    </standardpackageset>
+    <icscodes>
+      <code_term codenum="01.080.40">Graphical symbols for use on electrical and electronics engineering technical drawings, diagrams, plans and in relevant technical product documentation</code_term>
+      <code_term codenum="29.020">Electrical engineering in general</code_term>
+    </icscodes>
+    <pubsponsoringcommitteeset>
+      <pubsponsoringcommittee><![CDATA[Gyro Accelerometer Panel of the IEEE Aerospace and Electronic Systems Society]]></pubsponsoringcommittee>
+    </pubsponsoringcommitteeset>
+    <pubtopicalbrowseset>
+      <pubtopicalbrowse>General Topics for Engineers</pubtopicalbrowse>
+    </pubtopicalbrowseset>
+    <copyrightgroup>
+      <copyright>
+        <year>1986</year>
+        <holder>IEEE</holder>
+      </copyright>
+    </copyrightgroup>
+    <publisher>
+      <publishername>IEEE</publishername>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </publisher>
+    <productnumber pubtype="Online">STDRES10355</productnumber>
+    <PubApprovalDate>21 March 1985</PubApprovalDate>
+    <holdstatus>Publish</holdstatus>
+    <confgroup>
+      <doi_permission>F</doi_permission>
+    </confgroup>
+    <amsid>2616</amsid>
+  </publicationinfo>
+  <volume>
+    <volumeinfo>
+      <year>1986</year>
+      <idamsid>0b000064820d8c24</idamsid>
+      <issue>
+        <amsid>1445</amsid>
+        <issuestatus>Complete</issuestatus>
+      </issue>
+    </volumeinfo>
+    <article>
+      <title><![CDATA[IEEE Standard for Logic Circuit Diagrams]]></title>
+      <articleinfo>
+        <articleseqnum>1</articleseqnum>
+        <articledoi>10.1109/IEEESTD.1986.86130</articledoi>
+        <idamsid>0b000064801747e1</idamsid>
+        <articlestatus>Active</articlestatus>
+        <articleopenaccess>F</articleopenaccess>
+        <articleshowflag>T</articleshowflag>
+        <articleplagiarizedflag>F</articleplagiarizedflag>
+        <articlenodoiflag>F</articlenodoiflag>
+        <articlecoverimageflag>F</articlecoverimageflag>
+        <articlereferenceflag>F</articlereferenceflag>
+        <articlepeerreviewflag>F</articlepeerreviewflag>
+        <holdstatus>Publish</holdstatus>
+        <articlecopyright holderisieee="Yes" year="0"/>
+        <abstract abstracttype="Standard"><![CDATA[This standard provides guidelines for preparation of diagrams depicting logic functions. It includes definitions, requirements for assignment of logic levels, application of logic symbols, presentation techniques, and labeling requirements with typical examples. The techniques are presented in the context of electrical/electronic systems, but also may be applied to nonelectrical systems (for example, pneumatic, hydraulic, or mechanical).]]></abstract>
+        <articlestdscope><![CDATA[This standard provides guidelines for preparation of diagrams depicting logic functions. It includes definitions, requirements for assignment of logic levels, application of logic symbols, presentation techniques, and labeling requirements with typical examples. The techniques are presented in the context of electrical/electronic systems, but also may be applied to nonelectrical systems (for example, pneumatic, hydraulic, or mechanical).]]></articlestdscope>
+        <articlestdpurpose><![CDATA[The purpose of this standard is to provide standard practices and information for use in the preparation of diagrams depicting logic functions]]></articlestdpurpose>
+        <date datetype="OriginalPub">
+          <year>1986</year>
+          <month>June</month>
+          <day>27</day>
+        </date>
+        <date datetype="ePub">
+          <year>2018</year>
+          <month>1</month>
+          <day>19</day>
+        </date>
+        <size>1065205</size>
+        <filename docpartition="1" filetype="MainPDF">00035042.pdf</filename>
+        <artpagenums endpage="88" startpage="1">1-88</artpagenums>
+        <amsid>35042</amsid>
+        <keywordset keywordtype="IEEE">
+          <keyword>
+            <keywordterm><![CDATA[Logic circuits]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Standards]]></keywordterm>
+          </keyword>
+        </keywordset>
+        <keywordset keywordtype="IEEEFree">
+          <keyword>
+            <keywordterm><![CDATA[diagrams]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Logic functions]]></keywordterm>
+          </keyword>
+          <keyword>
+            <keywordterm><![CDATA[Logic circuits]]></keywordterm>
+          </keyword>
+        </keywordset>
+      </articleinfo>
+    </article>
+  </volume>
+</publication>
