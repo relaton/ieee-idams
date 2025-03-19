@@ -141,7 +141,7 @@ module Ieee
 
         map_element "holdstatus", to: :holdstatus
         map_element "articlecopyright", to: :articlecopyright
-        map_element "abstract", to: :abstract, cdata: true
+        map_element "abstract", to: :abstract
         map_element "articlestdscope", to: :articlestdscope, cdata: true
         map_element "articlestdpurpose", to: :articlestdpurpose, cdata: true
         map_element "authorgroup", to: :authorgroup
