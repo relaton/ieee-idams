@@ -13,8 +13,8 @@ module Ieee
       xml do
         root "artpagenums"
 
-        map_attribute "endpage", to: :endpage
-        map_attribute "startpage", to: :startpage
+        map_attribute "endpage", to: :endpage, value_map: { to: { empty: :empty } }
+        map_attribute "startpage", to: :startpage, value_map: { to: { empty: :empty } }
         map_content to: :formatted
       end
     end
