@@ -6,7 +6,7 @@ module Ieee
     class VolumeNoteGroup < Lutaml::Model::Serializable
       # Textual note
       # @return [String] A textual note
-      attribute :note, :string, collection: true
+      attribute :note, :string, collection: true, initialize_empty: true
 
       xml do
         root "notegroup"

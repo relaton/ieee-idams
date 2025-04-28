@@ -8,7 +8,7 @@ module Ieee
     class CopyrightGroup < Lutaml::Model::Serializable
       # Copyright entries
       # @return [Array<Copyright>] copyright information
-      attribute :copyright, Copyright, collection: true
+      attribute :copyright, Copyright, collection: true, initialize_empty: true
 
       xml do
         root "copyrightgroup"

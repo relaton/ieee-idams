@@ -75,7 +75,7 @@ module Ieee
 
       # Standard relationship
       # @return [String] standard relationship
-      attribute :standard_relationship, StandardRelationship, collection: true
+      attribute :standard_relationship, StandardRelationship, collection: true, initialize_empty: true
 
       # Standard modifier set
       # @return [StandardModifierSet] standard modifier details
@@ -91,7 +91,7 @@ module Ieee
 
       # ISBN information
       # @return [Isbn] ISBN details
-      attribute :isbn, Isbn, collection: true
+      attribute :isbn, Isbn, collection: true, initialize_empty: true
 
       # ISBN information
       # @return [PubSponsor] sponsor details

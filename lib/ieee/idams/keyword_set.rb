@@ -12,7 +12,7 @@ module Ieee
 
       # List of keywords
       # @return [Array<Keyword>] keywords
-      attribute :keyword, Keyword, collection: true
+      attribute :keyword, Keyword, collection: true, initialize_empty: true
 
       xml do
         root "keywordset"

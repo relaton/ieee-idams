@@ -8,7 +8,7 @@ module Ieee
     class AuthorGroup < Lutaml::Model::Serializable
       # List of authors
       # @return [Array<Author>] authors of the work
-      attribute :author, Author, collection: true
+      attribute :author, Author, collection: true, initialize_empty: true
 
       xml do
         root "authorgroup"

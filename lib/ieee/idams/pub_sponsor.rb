@@ -6,7 +6,7 @@ module Ieee
     class PubSponsor < Lutaml::Model::Serializable
       # IEEE Society that sponsors the publication
       # @return [String] Society name that sponsors the publication
-      attribute :society, :string, collection: true
+      attribute :society, :string, collection: true, initialize_empty: true
 
       xml do
         root "pubsponsor"

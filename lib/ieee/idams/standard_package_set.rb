@@ -4,7 +4,7 @@ module Ieee
   module Idams
     # Represents a set of standard packages
     class StandardPackageSet < Lutaml::Model::Serializable
-      attribute :standard_package, :string, collection: true
+      attribute :standard_package, :string, collection: true, initialize_empty: true
 
       xml do
         root "standardpackageset"

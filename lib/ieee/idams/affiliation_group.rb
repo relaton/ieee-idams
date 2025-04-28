@@ -8,7 +8,7 @@ module Ieee
     class AffiliationGroup < Lutaml::Model::Serializable
       # List of affiliations
       # @return [Array<Affiliation>] institutional affiliations
-      attribute :affn, Affiliation, collection: true
+      attribute :affn, Affiliation, collection: true, initialize_empty: true
 
       xml do
         root "affgrp"

@@ -27,7 +27,7 @@ module Ieee
       # List of topical categories
       # @return [Array<String>] subject classifications
       attribute :pubtopicalbrowse, :string, collection: true,
-                                            values: VALID_CATEGORIES
+                                            values: VALID_CATEGORIES, initialize_empty: true
 
       xml do
         root "pubtopicalbrowseset"

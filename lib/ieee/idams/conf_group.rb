@@ -8,7 +8,7 @@ module Ieee
       #   <doi_permission>F</doi_permission>
       # </confgroup>
 
-      attribute :doi_permission, :string, collection: true
+      attribute :doi_permission, :string, collection: true, initialize_empty: true
 
       xml do
         root "confgroup"

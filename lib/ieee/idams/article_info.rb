@@ -71,7 +71,7 @@ module Ieee
 
       # Abstract
       # @return [String] article abstract
-      attribute :abstract, ArticleAbstract, collection: true
+      attribute :abstract, ArticleAbstract, collection: true, initialize_empty: true
 
       # Author information
       # @return [AuthorGroup] article authors
@@ -87,7 +87,7 @@ module Ieee
 
       # Dates
       # @return [String] publication dates
-      attribute :date, ArticleDate, collection: true
+      attribute :date, ArticleDate, collection: true, initialize_empty: true
 
       # Article publication date
       # @return [String] publication date
@@ -119,7 +119,7 @@ module Ieee
 
       # Keywords
       # @return [Array<KeywordSet>] article keywords
-      attribute :keywordset, KeywordSet, collection: true
+      attribute :keywordset, KeywordSet, collection: true, initialize_empty: true
 
       xml do
         root "articleinfo"
