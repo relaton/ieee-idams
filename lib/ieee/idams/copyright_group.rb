@@ -11,7 +11,7 @@ module Ieee
       attribute :copyright, Copyright, collection: true, initialize_empty: true
 
       xml do
-        root "copyrightgroup"
+        element "copyrightgroup"
         map_element "copyright", to: :copyright
       end
     end

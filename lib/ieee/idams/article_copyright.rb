@@ -10,7 +10,7 @@ module Ieee
       attribute :year, :integer
 
       xml do
-        root "articlecopyright"
+        element "articlecopyright"
 
         map_attribute "holderisieee", to: :holder_is_ieee
         map_attribute "year", to: :year

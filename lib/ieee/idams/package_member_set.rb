@@ -7,7 +7,7 @@ module Ieee
       attribute :package_member, :string, collection: true, initialize_empty: true
 
       xml do
-        root "packagememberset"
+        element "packagememberset"
         map_element "packagemember", to: :package_member
       end
     end

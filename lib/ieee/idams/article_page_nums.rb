@@ -11,7 +11,7 @@ module Ieee
       attribute :formatted, :string
 
       xml do
-        root "artpagenums"
+        element "artpagenums"
 
         map_attribute "endpage", to: :endpage, value_map: { to: { empty: :empty } }
         map_attribute "startpage", to: :startpage, value_map: { to: { empty: :empty } }

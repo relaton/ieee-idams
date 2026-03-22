@@ -1,7 +1,16 @@
 # frozen_string_literal: true
 
 require "ieee-idams"
-require "xml-c14n"
+require "canon/rspec_matchers"
+
+# Configure Canon to ignore XML comments (lutaml-model doesn't preserve them)
+# and structural whitespace (input/output formatting may differ)
+Canon::Config.configure do |config|
+  config.xml.match.options = {
+    comments: :ignore,
+    structural_whitespace: :ignore,
+  }
+end
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
@@ -16,8 +25,6 @@ RSpec.configure do |config|
 end
 
 require "lutaml/model"
-require "lutaml/model/xml_adapter/nokogiri_adapter"
-
 Lutaml::Model::Config.configure do |config|
-  config.xml_adapter = Lutaml::Model::XmlAdapter::NokogiriAdapter
+  config.xml_adapter_type = :nokogiri
 end

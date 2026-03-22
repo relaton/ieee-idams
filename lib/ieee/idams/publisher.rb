@@ -19,7 +19,7 @@ module Ieee
       attribute :address, Address
 
       xml do
-        root "publisher"
+        element "publisher"
         map_element "publishername", to: :publishername
         map_element "publisherloc", to: :publisherloc
         map_element "address", to: :address

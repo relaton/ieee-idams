@@ -47,7 +47,7 @@ module Ieee
       attribute :authortype, :string, values: %w[author editor]
 
       xml do
-        root "author"
+        element "author"
         map_element "amsid", to: :amsid
         map_element "authororder", to: :authororder
         map_element "normname", to: :normname, cdata: true

@@ -122,7 +122,7 @@ module Ieee
       attribute :keywordset, KeywordSet, collection: true, initialize_empty: true
 
       xml do
-        root "articleinfo"
+        element "articleinfo"
         map_element "articleseqnum", to: :articleseqnum
         map_element "articledoi", to: :articledoi
         map_element "idamsid", to: :idamsid

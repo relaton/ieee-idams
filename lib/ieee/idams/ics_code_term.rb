@@ -8,7 +8,7 @@ module Ieee
       attribute :name, :string
 
       xml do
-        root "code_term"
+        element "code_term"
         map_attribute "codenum", to: :codenum
         map_content to: :name
       end

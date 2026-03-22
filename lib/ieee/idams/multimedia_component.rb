@@ -19,7 +19,7 @@ module Ieee
       attribute :doi, :string
 
       xml do
-        root "component"
+        element "component"
 
         map_element "componentfilename", to: :filename, render_nil: true
         map_element "componentfilesize", to: :filesize, render_nil: true

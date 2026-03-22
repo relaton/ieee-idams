@@ -21,7 +21,7 @@ module Ieee
       attribute :mediatype, :string, values: %w[Paper CD Online Electronic]
 
       xml do
-        root "isbn"
+        element "isbn"
         map_content to: :content
         map_attribute "isbnfiletype", to: :isbnfiletype
         map_attribute "isbntype", to: :isbntype

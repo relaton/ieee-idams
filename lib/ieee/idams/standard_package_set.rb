@@ -7,7 +7,7 @@ module Ieee
       attribute :standard_package, :string, collection: true, initialize_empty: true
 
       xml do
-        root "standardpackageset"
+        element "standardpackageset"
         map_element "standard_package", to: :standard_package
       end
     end

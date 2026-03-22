@@ -24,7 +24,7 @@ module Ieee
       attribute :issue, VolumeInfoIssue
 
       xml do
-        root "volumeinfo"
+        element "volumeinfo"
         map_element "year", to: :year
         map_element "idamsid", to: :idamsid
         map_element "notegroup", to: :note_group

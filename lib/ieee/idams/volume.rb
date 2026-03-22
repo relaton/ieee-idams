@@ -16,7 +16,7 @@ module Ieee
       attribute :article, Article
 
       xml do
-        root "volume"
+        element "volume"
         map_element "volumeinfo", to: :volumeinfo
         map_element "article", to: :article
       end

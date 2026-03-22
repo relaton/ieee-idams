@@ -7,7 +7,7 @@ module Ieee
       attribute :standard_modifier, :string
 
       xml do
-        root "standardmodifierset"
+        element "standardmodifierset"
         map_element "standard_modifier", to: :standard_modifier
       end
     end

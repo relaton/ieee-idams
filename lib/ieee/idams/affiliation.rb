@@ -23,7 +23,7 @@ module Ieee
       attribute :address, AffiliationAddress
 
       xml do
-        root "affn"
+        element "affn"
         map_element "amsid", to: :amsid
         map_element "orgname", to: :orgname, cdata: true
         map_element "orgdiv", to: :orgdiv

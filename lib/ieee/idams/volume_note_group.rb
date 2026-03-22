@@ -9,7 +9,7 @@ module Ieee
       attribute :note, :string, collection: true, initialize_empty: true
 
       xml do
-        root "notegroup"
+        element "notegroup"
         map_element "note", to: :note
       end
     end

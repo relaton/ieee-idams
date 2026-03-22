@@ -21,7 +21,7 @@ module Ieee
       attribute :day, :string
 
       xml do
-        root "date"
+        element "date"
 
         map_attribute "datetype", to: :datetype
         map_element "year", to: :year

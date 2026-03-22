@@ -11,7 +11,7 @@ module Ieee
       attribute :filename, :string
 
       xml do
-        root "filename"
+        element "filename"
 
         map_attribute "docpartition", to: :docpartition
         map_attribute "filetype", to: :filetype

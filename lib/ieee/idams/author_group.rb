@@ -11,7 +11,7 @@ module Ieee
       attribute :author, Author, collection: true, initialize_empty: true
 
       xml do
-        root "authorgroup"
+        element "authorgroup"
         map_element "author", to: :author
       end
     end

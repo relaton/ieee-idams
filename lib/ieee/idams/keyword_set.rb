@@ -15,7 +15,7 @@ module Ieee
       attribute :keyword, Keyword, collection: true, initialize_empty: true
 
       xml do
-        root "keywordset"
+        element "keywordset"
         map_attribute "keywordtype", to: :keywordtype
         map_element "keyword", to: :keyword
       end
