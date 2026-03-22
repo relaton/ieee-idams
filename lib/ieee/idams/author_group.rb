@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require_relative "author"
-
 module Ieee
   module Idams
     # Represents a group of authors

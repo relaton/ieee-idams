@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require_relative "copyright"
-
 module Ieee
   module Idams
     # Represents a group of copyright information

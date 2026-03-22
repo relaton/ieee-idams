@@ -1,8 +1,5 @@
 # frozen_string_literal: true
 
-require_relative "volume_info"
-require_relative "article"
-
 module Ieee
   module Idams
     # Represents a volume containing articles

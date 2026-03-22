@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require_relative "address"
-
 module Ieee
   module Idams
     # Represents a publisher

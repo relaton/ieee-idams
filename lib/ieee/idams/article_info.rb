@@ -1,14 +1,5 @@
 # frozen_string_literal: true
 
-require_relative "keyword_set"
-require_relative "multimedia"
-require_relative "author_group"
-require_relative "article_copyright"
-require_relative "article_date"
-require_relative "article_filename"
-require_relative "article_page_nums"
-require_relative "article_abstract"
-
 module Ieee
   module Idams
     # Contains detailed metadata about an article
