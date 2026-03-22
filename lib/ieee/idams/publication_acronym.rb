@@ -13,7 +13,7 @@ module Ieee
       attribute :value, :string
 
       xml do
-        root "acronym"
+        element "acronym"
         map_attribute "acronymtype", to: :type
         map_content to: :value
       end

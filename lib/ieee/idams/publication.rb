@@ -31,7 +31,7 @@ module Ieee
       attribute :volume, Volume
 
       xml do
-        root "publication"
+        element "publication"
         map_element "title", to: :title, cdata: true
         map_element "normtitle", to: :normtitle, cdata: true
         map_element "standardsfamilytitle", to: :standardsfamilytitle

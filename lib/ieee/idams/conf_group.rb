@@ -11,7 +11,7 @@ module Ieee
       attribute :doi_permission, :string, collection: true, initialize_empty: true
 
       xml do
-        root "confgroup"
+        element "confgroup"
         map_element "doi_permission", to: :doi_permission
       end
     end

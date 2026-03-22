@@ -10,7 +10,7 @@ module Ieee
       attribute :keywordmodifier, :string
 
       xml do
-        root "keyword"
+        element "keyword"
         map_element "keywordterm", to: :keywordterm, cdata: true
         map_element "keywordmodifier", to: :keywordmodifier
       end

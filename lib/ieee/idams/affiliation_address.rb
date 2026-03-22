@@ -25,7 +25,7 @@ module Ieee
       attribute :postcode, :string
 
       xml do
-        root "address"
+        element "address"
         map_element "street", to: :street, cdata: true
         map_element "city", to: :city, cdata: true
         map_element "state", to: :state, cdata: true

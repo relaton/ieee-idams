@@ -9,7 +9,7 @@ module Ieee
       attribute :society, :string, collection: true, initialize_empty: true
 
       xml do
-        root "pubsponsor"
+        element "pubsponsor"
         map_element "society", to: :society
       end
     end

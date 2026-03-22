@@ -9,7 +9,7 @@ module Ieee
       attribute :code_term, IcsCodeTerm, collection: true, initialize_empty: true
 
       xml do
-        root "icscodes"
+        element "icscodes"
         map_element "code_term", to: :code_term
       end
     end

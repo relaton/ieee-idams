@@ -32,7 +32,7 @@ module Ieee
       attribute :component, MultimediaComponent
 
       xml do
-        root "multimedia"
+        element "multimedia"
 
         map_element "summary", to: :summary
         map_element "compressed", to: :compressed

@@ -19,7 +19,7 @@ module Ieee
       attribute :readme_file, :string
 
       xml do
-        root "compressed"
+        element "compressed"
 
         map_element "compressedfilename", to: :filename
         map_element "compressedfilesize", to: :filesize

@@ -13,7 +13,7 @@ module Ieee
       attribute :value, :string
 
       xml do
-        root "abstract"
+        element "abstract"
         map_attribute "abstracttype", to: :abstract_type
         map_content to: :value, cdata: true
       end

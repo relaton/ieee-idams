@@ -9,7 +9,7 @@ module Ieee
       attribute :pubsponsoringcommittee, :string, collection: true, initialize_empty: true
 
       xml do
-        root "pubsponsoringcommitteeset"
+        element "pubsponsoringcommitteeset"
         map_element "pubsponsoringcommittee", to: :pubsponsoringcommittee, cdata: true
       end
     end

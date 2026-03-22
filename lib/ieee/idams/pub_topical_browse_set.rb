@@ -30,7 +30,7 @@ module Ieee
                                             values: VALID_CATEGORIES, initialize_empty: true
 
       xml do
-        root "pubtopicalbrowseset"
+        element "pubtopicalbrowseset"
         map_element "pubtopicalbrowse", to: :pubtopicalbrowse
       end
 

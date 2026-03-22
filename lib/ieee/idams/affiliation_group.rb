@@ -11,7 +11,7 @@ module Ieee
       attribute :affn, Affiliation, collection: true, initialize_empty: true
 
       xml do
-        root "affgrp"
+        element "affgrp"
         map_element "affn", to: :affn
       end
     end

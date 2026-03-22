@@ -15,7 +15,7 @@ module Ieee
       attribute :holder, :string
 
       xml do
-        root "copyright"
+        element "copyright"
         map_element "year", to: :year
         map_element "holder", to: :holder
       end

@@ -15,7 +15,7 @@ module Ieee
       attribute :articleinfo, ArticleInfo
 
       xml do
-        root "article"
+        element "article"
         map_element "title", to: :title, cdata: true
         map_element "articleinfo", to: :articleinfo
       end

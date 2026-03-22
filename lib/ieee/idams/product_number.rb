@@ -10,7 +10,7 @@ module Ieee
       attribute :value, :string
 
       xml do
-        root "productnumber"
+        element "productnumber"
         map_attribute "pubtype", to: :pubtype
         map_content to: :value
       end

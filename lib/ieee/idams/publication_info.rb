@@ -146,7 +146,7 @@ module Ieee
       attribute :amsid, :string
 
       xml do
-        root "publicationinfo"
+        element "publicationinfo"
         map_element "idamsid", to: :idamsid
         map_element "invpartnumber", to: :invpartnumber
         map_element "stdnumber", to: :stdnumber

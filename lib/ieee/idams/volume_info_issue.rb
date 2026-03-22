@@ -13,7 +13,7 @@ module Ieee
       attribute :issuestatus, :string
 
       xml do
-        root "issue"
+        element "issue"
         map_element "amsid", to: :amsid
         map_element "issuestatus", to: :issuestatus
       end
