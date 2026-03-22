@@ -6,11 +6,13 @@ module Ieee
     class PubSponsoringCommitteeSet < Lutaml::Model::Serializable
       # List of committees
       # @return [Array<String>] sponsoring committees
-      attribute :pubsponsoringcommittee, :string, collection: true, initialize_empty: true
+      attribute :pubsponsoringcommittee, :string, collection: true,
+                                                  initialize_empty: true
 
       xml do
         element "pubsponsoringcommitteeset"
-        map_element "pubsponsoringcommittee", to: :pubsponsoringcommittee, cdata: true
+        map_element "pubsponsoringcommittee", to: :pubsponsoringcommittee,
+                                              cdata: true
       end
     end
   end

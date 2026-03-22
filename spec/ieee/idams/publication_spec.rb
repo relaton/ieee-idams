@@ -11,8 +11,8 @@ RSpec.describe Ieee::Idams::Publication do
     next if input.empty?
 
     it "round-trips IEEE IDAMS record: #{f}" do
-      pub_model = Ieee::Idams::Publication.from_xml(input)
-      output = Ieee::Idams::Publication.to_xml(pub_model)
+      pub_model = described_class.from_xml(input)
+      output = described_class.to_xml(pub_model)
       #   pretty: true,
       #   declaration: true,
       #   encoding: "utf-8"

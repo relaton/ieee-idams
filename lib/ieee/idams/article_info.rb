@@ -71,7 +71,8 @@ module Ieee
 
       # Abstract
       # @return [String] article abstract
-      attribute :abstract, ArticleAbstract, collection: true, initialize_empty: true
+      attribute :abstract, ArticleAbstract, collection: true,
+                                            initialize_empty: true
 
       # Author information
       # @return [AuthorGroup] article authors
@@ -119,7 +120,8 @@ module Ieee
 
       # Keywords
       # @return [Array<KeywordSet>] article keywords
-      attribute :keywordset, KeywordSet, collection: true, initialize_empty: true
+      attribute :keywordset, KeywordSet, collection: true,
+                                         initialize_empty: true
 
       xml do
         element "articleinfo"

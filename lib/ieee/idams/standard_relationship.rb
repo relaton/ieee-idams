@@ -26,8 +26,10 @@ module Ieee
 
       xml do
         element "standard_relationship"
-        map_attribute "prodnum", to: :prodnum, value_map: { to: { empty: :empty } }
-        map_attribute "relationship_date", to: :relationship_date, value_map: { to: { empty: :empty } }
+        map_attribute "prodnum", to: :prodnum,
+                                 value_map: { to: { empty: :empty } }
+        map_attribute "relationship_date", to: :relationship_date,
+                                           value_map: { to: { empty: :empty } }
         map_attribute "type", to: :type, value_map: { to: { empty: :empty } }
         map_content to: :date_string
       end

@@ -1,8 +1,9 @@
 # frozen_string_literal: true
 
 RSpec.describe Ieee::Idams::PubModel do # rubocop:disable Metrics/BlockLength
-  let(:xml) { File.read("spec/fixtures/00000003.xml") }
   subject { Ieee::Idams::Publication.from_xml(xml) }
+
+  let(:xml) { File.read("spec/fixtures/00000003.xml") }
 
   context "normalized title" do
     let(:xml) { File.read("spec/fixtures/06658816.xml") }
@@ -11,12 +12,12 @@ RSpec.describe Ieee::Idams::PubModel do # rubocop:disable Metrics/BlockLength
       expect(subject.btitle).to eq [
         {
           content: "IEEE Standard for Electrical Safety Practices in Electrolytic Cell Line Working Zones",
-          type: "title-main"
+          type: "title-main",
         },
         {
           content: "IEEE Standard for Electrical Safety Practices in Electrolytic Cell Line Working Zones - Redline",
-          type: "main"
-        }
+          type: "main",
+        },
       ]
     end
   end
@@ -25,14 +26,14 @@ RSpec.describe Ieee::Idams::PubModel do # rubocop:disable Metrics/BlockLength
     expect(subject.bdate).to eq [
       { on: "1997-04-03", type: "created" },
       { on: "2019-04-26", type: "published" },
-      { on: "1996-12-10", type: "issued" }
+      { on: "1996-12-10", type: "issued" },
     ]
   end
 
   it "ISBN and DOI" do
     expect(subject.isbn_doi).to eq [
       { id: "978-0-7381-3142-9", type: "ISBN" },
-      { id: "10.1109/IEEESTD.1997.3", type: "DOI" }
+      { id: "10.1109/IEEESTD.1997.3", type: "DOI" },
     ]
   end
 
@@ -56,8 +57,10 @@ RSpec.describe Ieee::Idams::PubModel do # rubocop:disable Metrics/BlockLength
 
   context "keyword" do
     let(:xml) { File.read("spec/fixtures/00035042.xml") }
+
     it do
-      expect(subject.keyword).to eq ["Logic circuits", "Standards", "diagrams", "Logic functions"]
+      expect(subject.keyword).to eq ["Logic circuits", "Standards", "diagrams",
+                                     "Logic functions"]
     end
   end
 
@@ -67,7 +70,7 @@ RSpec.describe Ieee::Idams::PubModel do # rubocop:disable Metrics/BlockLength
 
   it "editorial group" do
     expect(subject.editorialgroup).to eq [
-      "Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society"
+      "Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society",
     ]
   end
 
@@ -80,6 +83,7 @@ RSpec.describe Ieee::Idams::PubModel do # rubocop:disable Metrics/BlockLength
 
     context "redline" do
       let(:xml) { File.read("spec/fixtures/06658816.xml") }
+
       it { expect(subject.doctype).to eq "redline" }
     end
   end
