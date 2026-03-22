@@ -1,22 +1,5 @@
 # frozen_string_literal: true
 
-require_relative "publication_acronym"
-require_relative "isbn"
-require_relative "copyright_group"
-require_relative "publisher"
-require_relative "address"
-require_relative "pub_sponsoring_committee_set"
-require_relative "pub_topical_browse_set"
-require_relative "pub_sponsor"
-require_relative "standard_modifier_set"
-require_relative "standard_relationship"
-require_relative "standard_bundle"
-require_relative "package_member_set"
-require_relative "standard_package_set"
-require_relative "ics_codes"
-require_relative "product_number"
-require_relative "conf_group"
-
 module Ieee
   module Idams
     # Contains detailed metadata about an IEEE publication

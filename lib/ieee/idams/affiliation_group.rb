@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require_relative "affiliation"
-
 module Ieee
   module Idams
     # Represents a group of institutional affiliations

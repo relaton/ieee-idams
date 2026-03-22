@@ -1,8 +1,5 @@
 # frozen_string_literal: true
 
-require_relative "multimedia_compressed"
-require_relative "multimedia_component"
-
 module Ieee
   module Idams
     # Multimedia

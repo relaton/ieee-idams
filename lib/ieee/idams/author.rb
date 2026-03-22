@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require_relative "affiliation_group"
-
 module Ieee
   module Idams
     # Represents an individual author

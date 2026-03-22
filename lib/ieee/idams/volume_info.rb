@@ -1,8 +1,5 @@
 # frozen_string_literal: true
 
-require_relative "volume_info_issue"
-require_relative "volume_note_group"
-
 module Ieee
   module Idams
     # Contains volume metadata

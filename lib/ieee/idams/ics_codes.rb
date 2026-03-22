@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require_relative "ics_code_term"
-
 module Ieee
   module Idams
     # ICS Codes
