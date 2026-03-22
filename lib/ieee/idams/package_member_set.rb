@@ -4,7 +4,8 @@ module Ieee
   module Idams
     # Represents a set of package members
     class PackageMemberSet < Lutaml::Model::Serializable
-      attribute :package_member, :string, collection: true, initialize_empty: true
+      attribute :package_member, :string, collection: true,
+                                          initialize_empty: true
 
       xml do
         element "packagememberset"

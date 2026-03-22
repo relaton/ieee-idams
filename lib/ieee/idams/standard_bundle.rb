@@ -35,7 +35,8 @@ module Ieee
         element "standard_bundle"
         map_element "bundle_name", to: :bundle_name
         map_element "bundle_type", to: :bundle_type
-        map_element "base_standard_product_number", to: :base_standard_product_number
+        map_element "base_standard_product_number",
+                    to: :base_standard_product_number
         map_element "bundle_product_number", to: :bundle_product_number
       end
     end

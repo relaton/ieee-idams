@@ -6,7 +6,8 @@ module Ieee
   module Idams
     # ICS Codes
     class IcsCodes < Lutaml::Model::Serializable
-      attribute :code_term, IcsCodeTerm, collection: true, initialize_empty: true
+      attribute :code_term, IcsCodeTerm, collection: true,
+                                         initialize_empty: true
 
       xml do
         element "icscodes"

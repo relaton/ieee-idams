@@ -4,14 +4,19 @@ module Ieee
   module Idams
     # Represents an IEEE IDAMS publication record
     class PubModel
-      DATETYPES = { "OriginalPub" => "created", "ePub" => "published", "LastInspecUpd" => "updated" }.freeze
+      DATETYPES = { "OriginalPub" => "created", "ePub" => "published",
+                    "LastInspecUpd" => "updated" }.freeze
 
-      attr_accessor :title, :normtitle, :standardsfamilytitle, :publicationinfo, :volume
+      attr_accessor :title, :normtitle, :standardsfamilytitle,
+                    :publicationinfo, :volume
 
       def btitle
         t = []
         content = CGI.unescapeHTML volume.article.title
-        t << { content: Regexp.last_match(1), type: "title-main" } if content =~ /\A(.+)\s[-\u2014]\sredline\z/i
+        if content =~ /\A(.+)\s[-\u2014]\sredline\z/i
+          t << { content: Regexp.last_match(1),
+                 type: "title-main" }
+        end
         t << { content: content, type: "main" }
       end
 
@@ -51,7 +56,9 @@ module Ieee
       # @return [Array<String, Array>] publisher name and address
       #
       def contrib_name_addr
-        addr = contrib_addres(publicationinfo.publisher.address).map { |a| block_given? ? yield(a) : a }
+        addr = contrib_addres(publicationinfo.publisher.address).map do |a|
+          block_given? ? yield(a) : a
+        end
         [publicationinfo.publisher.publishername, addr]
       end
 
@@ -67,7 +74,8 @@ module Ieee
       end
 
       def docstatus
-        return unless %w[Draft Approved Superseded Withdrawn].include?(standard_modifier)
+        return unless %w[Draft Approved Superseded
+                         Withdrawn].include?(standard_modifier)
 
         args = { stage: standard_modifier.downcase }
         block_given? ? yield(args) : args

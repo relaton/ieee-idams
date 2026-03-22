@@ -21,7 +21,7 @@ module Ieee
         "Power, Industry and Industry Applications",
         "Robotics and Control Systems",
         "Signal Processing and Analysis",
-        "Transportation"
+        "Transportation",
       ].freeze
 
       # List of topical categories

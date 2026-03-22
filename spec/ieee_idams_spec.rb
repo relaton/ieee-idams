@@ -2,6 +2,6 @@
 
 RSpec.describe Ieee::Idams::Publication do
   it "has a version number" do
-    expect(Ieee::Idams::VERSION).not_to be nil
+    expect(Ieee::Idams::VERSION).not_to be_nil
   end
 end

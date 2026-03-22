@@ -75,7 +75,8 @@ module Ieee
 
       # Standard relationship
       # @return [String] standard relationship
-      attribute :standard_relationship, StandardRelationship, collection: true, initialize_empty: true
+      attribute :standard_relationship, StandardRelationship, collection: true,
+                                                              initialize_empty: true
 
       # Standard modifier set
       # @return [StandardModifierSet] standard modifier details

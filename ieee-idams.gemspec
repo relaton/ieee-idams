@@ -30,17 +30,18 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
   spec.required_ruby_version = ">= 2.7.0"
 
-  spec.add_runtime_dependency "lutaml-model", "~> 0.8.0"
-  spec.add_runtime_dependency "nokogiri"
-  spec.add_runtime_dependency "thor"
+  spec.add_dependency "lutaml-model", "~> 0.8.0"
+  spec.add_dependency "nokogiri"
+  spec.add_dependency "thor"
 
+  spec.add_development_dependency "canon"
   spec.add_development_dependency "rake"
   spec.add_development_dependency "rspec"
   spec.add_development_dependency "rubocop"
   spec.add_development_dependency "rubocop-performance"
-  spec.add_development_dependency "canon"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = spec.homepage
   spec.metadata["changelog_uri"] = spec.homepage
+  spec.metadata["rubygems_mfa_required"] = "true"
 end
