@@ -26,5 +26,5 @@ end
 
 require "lutaml/model"
 Lutaml::Model::Config.configure do |config|
-  config.xml_adapter_type = :nokogiri
+  config.xml_adapter_type = :leptris
 end
